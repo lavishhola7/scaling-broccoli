@@ -1657,3 +1657,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jul2025 23:45:21.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mw20rv8ph6vl]: started parsing
 [30Jul2025 23:45:21.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mw20rv8ph6vl]: Consuming argument `70%cobbled_deepslate,30%deepslate_coal_ore`
 [30Jul2025 23:45:21.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mw20rv8ph6vl]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:46:36.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 23:46:36.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 23:51:36.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 23:51:36.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 23:52:17.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgae5rlje7u3]: started parsing
+[30Jul2025 23:52:17.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgae5rlje7u3]: Consuming argument `70%cobbled_deepslate,30%deepslate_coal_ore`
+[30Jul2025 23:52:17.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgae5rlje7u3]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:17.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3mgp2swdw1e]: started parsing
+[30Jul2025 23:52:17.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3mgp2swdw1e]: Consuming argument `70%cobbled_deepslate,30%deepslate_coal_ore`
+[30Jul2025 23:52:17.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3mgp2swdw1e]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:17.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08y0mms9fkyb5]: started parsing
+[30Jul2025 23:52:17.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08y0mms9fkyb5]: Consuming argument `70%deepslate,30%deepslate_coal_ore`
+[30Jul2025 23:52:17.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08y0mms9fkyb5]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:17.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xv7bh1ok01hr]: started parsing
+[30Jul2025 23:52:17.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xv7bh1ok01hr]: Consuming argument `70%deepslate,30%deepslate_coal_ore`
+[30Jul2025 23:52:17.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xv7bh1ok01hr]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qw32ys84inrv]: started parsing
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qw32ys84inrv]: Consuming argument `30%stone,30%stone_bricks,20%andesite,10%cracked_stone_bricks,10%polished_andesite`
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qw32ys84inrv]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1918qgo0pjjmr]: started parsing
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1918qgo0pjjmr]: Consuming argument `30%stone,30%stone_bricks,20%andesite,10%cracked_stone_bricks,10%polished_andesite`
+[30Jul2025 23:52:17.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1918qgo0pjjmr]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:18.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1h6bgon936q]: started parsing
+[30Jul2025 23:52:18.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1h6bgon936q]: Consuming argument `air`
+[30Jul2025 23:52:18.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1h6bgon936q]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:18.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ws7h1z7rksl]: started parsing
+[30Jul2025 23:52:18.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ws7h1z7rksl]: Consuming argument `air`
+[30Jul2025 23:52:18.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ws7h1z7rksl]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:18.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1k43laeibbp]: started parsing
+[30Jul2025 23:52:18.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1k43laeibbp]: Consuming argument `30%stone,30%stone_bricks,20%andesite,10%cracked_stone_bricks,10%polished_andesite`
+[30Jul2025 23:52:18.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1k43laeibbp]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:18.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtn911m5q5gk]: started parsing
+[30Jul2025 23:52:18.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtn911m5q5gk]: Consuming argument `30%stone,30%stone_bricks,20%andesite,10%cracked_stone_bricks,10%polished_andesite`
+[30Jul2025 23:52:18.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtn911m5q5gk]: Finished looking at arguments. Finalizing command.
+[30Jul2025 23:52:19.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set the time to 1000]
