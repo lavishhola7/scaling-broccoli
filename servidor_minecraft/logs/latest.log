@@ -76,3 +76,21 @@
 [01Aug2025 19:40:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set own game mode to Creative Mode]
 [01Aug2025 19:46:33.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set own game mode to Spectator Mode]
 [01Aug2025 19:46:38.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set own game mode to Creative Mode]
+[01Aug2025 19:53:56.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGordoPepe lost connection: Disconnected
+[01Aug2025 19:53:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe left the game
+[01Aug2025 19:54:02.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Aug2025 19:54:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[01Aug2025 19:54:07.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Aug2025 19:54:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2025 19:54:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2025 19:54:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2025 19:54:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Aug2025 19:54:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Aug2025 19:54:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Aug2025 19:54:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Aug2025 19:54:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2025 19:54:10.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2025 19:54:10.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Aug2025 19:54:10.266] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Aug2025 19:54:10.270] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Aug2025 19:54:10.273] [Server thread/INFO] [Framework/]: Finished unloading server configs
