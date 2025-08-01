@@ -67,3 +67,18 @@
 [01Aug2025 19:07:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set the time to 1000]
 [01Aug2025 19:15:14.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe has made the advancement [Monster Hunter]
 [01Aug2025 19:21:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: The difficulty has been set to Peaceful]
+[01Aug2025 19:27:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set own game mode to Spectator Mode]
+[01Aug2025 19:28:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set own game mode to Creative Mode]
+[01Aug2025 19:29:09.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGordoPepe lost connection: Disconnected
+[01Aug2025 19:29:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe left the game
+[01Aug2025 19:29:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Aug2025 19:29:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2025 19:29:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2025 19:29:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2025 19:29:19.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Aug2025 19:29:20.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Aug2025 19:29:20.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Aug2025 19:29:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Aug2025 19:29:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2025 19:29:20.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2025 19:29:20.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
