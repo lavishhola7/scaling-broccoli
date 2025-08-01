@@ -62,3 +62,14 @@
 [01Aug2025 19:57:50.101] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [01Aug2025 19:58:20.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElGordoPepe[/127.35.233.215:53831] logged in with entity id 170 at (-73.74452791140989, 86.0, -137.11597308018534)
 [01Aug2025 19:58:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe joined the game
+[01Aug2025 20:13:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.ender_dragon.death to ElGordoPepe]
+[01Aug2025 20:14:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to ElGordoPepe]
+[01Aug2025 20:14:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to ElGordoPepe]
+[01Aug2025 20:15:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.activate to ElGordoPepe]
+[01Aug2025 20:15:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.activate to ElGordoPepe]
+[01Aug2025 20:15:20.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.ambient to ElGordoPepe]
+[01Aug2025 20:15:30.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.deactivate to ElGordoPepe]
+[01Aug2025 20:15:40.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to ElGordoPepe]
+[01Aug2025 20:15:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to ElGordoPepe]
+[01Aug2025 20:16:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to ElGordoPepe]
+[01Aug2025 20:16:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to ElGordoPepe]
