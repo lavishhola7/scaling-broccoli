@@ -843,3 +843,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 23:43:49.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 23:48:49.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 23:48:49.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 23:53:49.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 23:53:49.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 23:57:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe has made the advancement [Glow and Behold!]
+[31Jul2025 23:58:49.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 23:58:49.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
