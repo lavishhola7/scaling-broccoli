@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "c8a75f27-731a-310c-9107-984164c2aa8a",
+    "name": "SALCOPE25",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "2acd8a19-5e54-36c2-8c95-e397f0a47d7b",
     "name": "ElGordoPepe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c9beb890-2671-3838-a808-2f68a93b3ca2",
+    "name": "Agus2000",
     "level": 4,
     "bypassesPlayerLimit": false
   },

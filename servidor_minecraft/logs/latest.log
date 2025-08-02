@@ -83,3 +83,59 @@
 [02Aug2025 23:04:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has made the advancement [Stone Age]
 [02Aug2025 23:04:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported SALCOPE25 to Ice_T]
 [02Aug2025 23:07:56.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Set SALCOPE25's game mode to Adventure Mode]
+[02Aug2025 23:10:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 fell from a high place
+[02Aug2025 23:10:48.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported SALCOPE25 to Ice_T]
+[02Aug2025 23:11:03.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Set the world spawn point to -76, 86, -165 [0.0]]
+[02Aug2025 23:11:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Made SALCOPE25 a server operator]
+[02Aug2025 23:11:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 was killed
+[02Aug2025 23:11:10.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Killed SALCOPE25]
+[02Aug2025 23:11:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 was killed
+[02Aug2025 23:11:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Killed SALCOPE25]
+[02Aug2025 23:11:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T has made the advancement [Monster Hunter]
+[02Aug2025 23:11:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has made the advancement [Monster Hunter]
+[02Aug2025 23:11:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
+[02Aug2025 23:12:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: The difficulty has been set to Peaceful]
+[02Aug2025 23:14:22.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGordoPepe lost connection: Disconnected
+[02Aug2025 23:14:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe left the game
+[02Aug2025 23:15:26.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3db1e21a[id=<null>,name=Agus2000,properties={},legacy=false] (/127.191.107.171:47657) lost connection: Disconnected
+[02Aug2025 23:15:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported Ice_T to SALCOPE25]
+[02Aug2025 23:16:17.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.191.107.171:52727] logged in with entity id 4341 at (-76.5, 86.0, -160.5)
+[02Aug2025 23:16:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[02Aug2025 23:17:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> denme op
+[02Aug2025 23:17:24.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> denme op
+[02Aug2025 23:17:44.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set Agus2000's game mode to Creative Mode]
+[02Aug2025 23:17:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> ./op Agus2000
+[02Aug2025 23:18:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Made Agus2000 a server operator]
+[02Aug2025 23:18:08.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[02Aug2025 23:18:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[02Aug2025 23:18:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[02Aug2025 23:18:41.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Spectator Mode]
+[02Aug2025 23:18:45.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[02Aug2025 23:20:30.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
+[02Aug2025 23:21:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Stone Age]
+[02Aug2025 23:25:05.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has made the advancement [Hot Stuff]
+[02Aug2025 23:26:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set the time to 1000]
+[02Aug2025 23:26:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set the weather to clear]
+[02Aug2025 23:28:25.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Spectator Mode]
+[02Aug2025 23:28:28.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
+[02Aug2025 23:28:42.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Spectator Mode]
+[02Aug2025 23:29:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
+[02Aug2025 23:29:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has made the advancement [Ice Bucket Challenge]
+[02Aug2025 23:29:35.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Spectator Mode]
+[02Aug2025 23:29:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
+[02Aug2025 23:30:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Stopping the server]
+[02Aug2025 23:30:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2025 23:30:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2025 23:30:01.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice_T lost connection: Server closed
+[02Aug2025 23:30:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T left the game
+[02Aug2025 23:30:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2025 23:30:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2025 23:30:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2025 23:30:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2025 23:30:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2025 23:30:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2025 23:30:04.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2025 23:30:04.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2025 23:30:04.351] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Aug2025 23:30:04.353] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Aug2025 23:30:04.357] [Server thread/INFO] [Framework/]: Finished unloading server configs
