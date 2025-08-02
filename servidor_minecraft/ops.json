@@ -4,5 +4,11 @@
     "name": "ElGordoPepe",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8ee9ceae-b66a-3e2c-9b99-cc06e1ad9376",
+    "name": "Ice_T",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
