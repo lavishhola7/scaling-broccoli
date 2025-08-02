@@ -72,3 +72,14 @@
 [02Aug2025 22:58:57.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice_T lost connection: Disconnected
 [02Aug2025 22:58:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T left the game
 [02Aug2025 22:58:57.561] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 23:00:34.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@569bf5fc[id=<null>,name=SALCOPE25,properties={},legacy=false] (/127.153.248.116:40009) lost connection: Disconnected
+[02Aug2025 23:00:52.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SALCOPE25[/127.153.248.116:59741] logged in with entity id 1783 at (-4.5, 79.0, 24.5)
+[02Aug2025 23:00:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 joined the game
+[02Aug2025 23:01:41.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ice_T[/127.92.129.14:44681] logged in with entity id 2027 at (-79.68622657370048, 86.0, -163.79111646868648)
+[02Aug2025 23:01:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T joined the game
+[02Aug2025 23:02:45.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Set own game mode to Creative Mode]
+[02Aug2025 23:02:59.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported Ice_T to SALCOPE25]
+[02Aug2025 23:03:46.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported Ice_T to SALCOPE25]
+[02Aug2025 23:04:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has made the advancement [Stone Age]
+[02Aug2025 23:04:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Teleported SALCOPE25 to Ice_T]
+[02Aug2025 23:07:56.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Set SALCOPE25's game mode to Adventure Mode]
