@@ -304,3 +304,16 @@ Caused by: java.lang.IllegalArgumentException: no profile with name ice_t
 	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$1(SkinRestorer.java:144) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 1 more
+[02Aug2025 23:44:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Spread 1 player(s) around -65.67, -170.51 with an average distance of 0.00 blocks apart]
+[02Aug2025 23:45:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElGordoPepe: Gamerule fallDamage is now set to: false]
+[02Aug2025 23:45:45.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T: Skin changed]
+[02Aug2025 23:47:20.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGordoPepe lost connection: Disconnected
+[02Aug2025 23:47:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGordoPepe left the game
+[02Aug2025 23:49:12.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.35.233.215:58549] logged in with entity id 2326 at (-71.34966131047975, 95.63225841922745, -167.9348983984689)
+[02Aug2025 23:49:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[02Aug2025 23:49:41.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice_T lost connection: Disconnected
+[02Aug2025 23:49:41.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T left the game
+[02Aug2025 23:51:24.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ice_T166[/127.92.129.14:43537] logged in with entity id 2490 at (-75.5, 93.0, -166.5)
+[02Aug2025 23:51:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T166 joined the game
+[02Aug2025 23:52:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Made Ice_T166 a server operator]
+[02Aug2025 23:53:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
