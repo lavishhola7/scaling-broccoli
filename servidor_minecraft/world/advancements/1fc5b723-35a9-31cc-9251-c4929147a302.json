@@ -5,11 +5,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_lots_of_items": "2025-08-03 00:10:45 +0000"
+      "minecraft:ocean": "2025-08-02 23:51:25 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
@@ -17,11 +17,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "minecraft:ocean": "2025-08-02 23:51:25 +0000"
+      "has_lots_of_items": "2025-08-03 00:10:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
