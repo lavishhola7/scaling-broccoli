@@ -417,7 +417,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2025-08-03 01:08:31 +0000"
+      "golden_apple": "2025-08-03 01:08:31 +0000",
+      "bread": "2025-08-03 02:03:27 +0000"
     },
     "done": false
   },
@@ -460,6 +461,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-08-03 01:45:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-08-03 02:03:21 +0000"
     },
     "done": true
   },

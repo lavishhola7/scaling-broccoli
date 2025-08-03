@@ -29,5 +29,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-08-03 02:01:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
