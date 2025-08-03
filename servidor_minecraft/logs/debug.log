@@ -1845,3 +1845,9 @@ Caused by: java.lang.IllegalArgumentException: no profile with name ice_t
 [02Aug2025 23:54:38.582] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ujoru11wgc3j]: Consuming argument `12`
 [02Aug2025 23:54:38.582] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ujoru11wgc3j]: Consuming argument `7`
 [02Aug2025 23:54:38.582] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ujoru11wgc3j]: Finished looking at arguments. Finalizing command.
+[02Aug2025 23:55:40.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 23:55:40.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 23:56:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
+[03Aug2025 00:00:40.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 00:00:40.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 00:02:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
