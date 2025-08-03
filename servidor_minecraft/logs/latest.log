@@ -814,3 +814,91 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 01:25:24.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=85, z=-166}
 [03Aug2025 01:25:25.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=85, z=-166}
 [03Aug2025 01:25:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[03Aug2025 01:26:19.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=85, z=-168}
+[03Aug2025 01:26:20.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-83, y=86, z=-167}
+[03Aug2025 01:26:21.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=87, z=-169}
+[03Aug2025 01:26:21.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=86, z=-167}
+[03Aug2025 01:26:32.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=85, z=-162}
+[03Aug2025 01:26:33.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-85, y=86, z=-162}
+[03Aug2025 01:26:48.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ tried to swim in lava
+[03Aug2025 01:27:11.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=87, z=-161}
+[03Aug2025 01:27:11.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=86, z=-162}
+[03Aug2025 01:27:11.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=87, z=-162}
+[03Aug2025 01:27:12.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=88, z=-162}
+[03Aug2025 01:27:12.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=87, z=-163}
+[03Aug2025 01:27:12.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=87, z=-165}
+[03Aug2025 01:27:12.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=88, z=-165}
+[03Aug2025 01:27:12.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=88, z=-164}
+[03Aug2025 01:27:12.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-70, y=88, z=-165}
+[03Aug2025 01:27:12.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-69, y=85, z=-168}
+[03Aug2025 01:27:12.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-69, y=85, z=-169}
+[03Aug2025 01:27:17.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-85, y=87, z=-177}
+[03Aug2025 01:27:17.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-86, y=88, z=-177}
+[03Aug2025 01:27:18.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-87, y=88, z=-177}
+[03Aug2025 01:27:18.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-88, y=87, z=-177}
+[03Aug2025 01:27:18.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-89, y=87, z=-177}
+[03Aug2025 01:27:18.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-88, y=87, z=-177}
+[03Aug2025 01:27:18.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-88, y=88, z=-177}
+[03Aug2025 01:27:18.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-89, y=88, z=-177}
+[03Aug2025 01:27:18.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-90, y=88, z=-177}
+[03Aug2025 01:27:18.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=93, z=-173} BlockPos{x=-91, y=87, z=-177}
+[03Aug2025 01:27:23.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-86, y=87, z=-174}
+[03Aug2025 01:27:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gamerule tntExplosionDropDecay is now set to: false]
+[03Aug2025 01:27:37.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BluGC[/127.90.13.52:56951] logged in with entity id 13552 at (-70.98514161918185, 48.71476152359236, -124.2518098113312)
+[03Aug2025 01:27:37.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC joined the game
+[03Aug2025 01:27:41.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone drowned
+[03Aug2025 01:28:02.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=94, z=-169}
+[03Aug2025 01:28:02.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=94, z=-170}
+[03Aug2025 01:28:03.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=94, z=-170}
+[03Aug2025 01:28:03.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Weckstone]
+[03Aug2025 01:28:05.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoMazo was slain by BluGC
+[03Aug2025 01:28:10.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-79, y=92, z=-171}
+[03Aug2025 01:28:19.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=94, z=-174}
+[03Aug2025 01:28:19.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=94, z=-174}
+[03Aug2025 01:28:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ was slain by BluGC
+[03Aug2025 01:28:30.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gamerule tntExplosionDropDecay is now set to: true]
+[03Aug2025 01:28:32.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=94, z=-173}
+[03Aug2025 01:28:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> NAMBRE
+[03Aug2025 01:28:41.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=93, z=-166}
+[03Aug2025 01:28:41.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=92, z=-166}
+[03Aug2025 01:28:41.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=92, z=-165}
+[03Aug2025 01:28:41.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=93, z=-165}
+[03Aug2025 01:28:43.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=94, z=-165}
+[03Aug2025 01:28:43.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=93, z=-166}
+[03Aug2025 01:28:43.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=91, z=-166}
+[03Aug2025 01:28:43.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=92, z=-167}
+[03Aug2025 01:29:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Survival Mode]
+[03Aug2025 01:29:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:29:35.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoMazo lost connection: Disconnected
+[03Aug2025 01:29:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoMazo left the game
+[03Aug2025 01:30:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> yamero ga!!!
+[03Aug2025 01:30:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wetro__> Agus no me deja sentarme
+[03Aug2025 01:31:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> JAJAJAJAJAJAJAAJ
+[03Aug2025 01:31:26.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ was slain by Agus2000
+[03Aug2025 01:31:36.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ was slain by Agus2000
+[03Aug2025 01:31:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:31:46.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=86, z=-169} BlockPos{x=-88, y=86, z=-173}
+[03Aug2025 01:31:46.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=86, z=-169} BlockPos{x=-88, y=86, z=-173}
+[03Aug2025 01:31:46.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=86, z=-169} BlockPos{x=-88, y=86, z=-173}
+[03Aug2025 01:31:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ was slain by Agus2000
+[03Aug2025 01:31:50.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=86, z=-169} BlockPos{x=-89, y=85, z=-173}
+[03Aug2025 01:31:50.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=86, z=-169} BlockPos{x=-88, y=86, z=-173}
+[03Aug2025 01:31:50.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:32:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:32:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> :sob:
+[03Aug2025 01:32:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> no violencia
+[03Aug2025 01:32:23.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:32:38.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:33:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> jajaajja si
+[03Aug2025 01:33:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gamerule mobGriefing is now set to: false]
+[03Aug2025 01:33:59.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Made Wetro__ a server operator]
+[03Aug2025 01:35:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> agus quiero poner una sugerencia muy seria
+[03Aug2025 01:35:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 2 [Spyglass] to genero100]
+[03Aug2025 01:35:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:41.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:43.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
