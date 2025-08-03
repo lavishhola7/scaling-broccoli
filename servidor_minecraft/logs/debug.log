@@ -2849,3 +2849,154 @@ Caused by: java.lang.IllegalArgumentException: no profile with name ice_t
 [03Aug2025 00:44:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Set own game mode to Creative Mode]
 [03Aug2025 00:44:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> tipo namas en creativo nos sentamos
 [03Aug2025 00:44:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported El_Pablos21 to Agus2000]
+[03Aug2025 00:45:32.806] [Server thread/ERROR] [SkinRestorer/]: Failed to set skin 'mojang:Agus200'
+java.util.concurrent.CompletionException: not found
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:649) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: net.lionarius.skinrestorer.exception.TransparentException: not found
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$2(SkinRestorer.java:152) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	... 14 more
+Caused by: java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$0(SkinRestorer.java:144) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$1(SkinRestorer.java:144) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 1 more
+[03Aug2025 00:45:34.860] [Server thread/ERROR] [SkinRestorer/]: Failed to set skin 'mojang:Agus2000'
+java.util.concurrent.CompletionException: /10.0.0.13:56068: GOAWAY received
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:649) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23111!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: net.lionarius.skinrestorer.exception.TransparentException: /10.0.0.13:56068: GOAWAY received
+	at net.lionarius.skinrestorer.SkinRestorer.lambda$setSkinAsync$2(SkinRestorer.java:152) ~[skinrestorer-2.4.2+1.20-forge.jar%23108!/:2.4.2+1.20-forge]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	... 14 more
+Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
+	at jdk.internal.net.http.Http2Connection.handleGoAway(Http2Connection.java:1210) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.handleConnectionFrame(Http2Connection.java:1069) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.processFrame(Http2Connection.java:831) ~[java.net.http:?]
+	at jdk.internal.net.http.frame.FramesDecoder.decode(FramesDecoder.java:155) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$FramesController.processReceivedData(Http2Connection.java:237) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.asyncReceive(Http2Connection.java:757) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.processQueue(Http2Connection.java:1531) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:205) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.runOrSchedule(Http2Connection.java:1548) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.onNext(Http2Connection.java:1575) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.onNext(Http2Connection.java:1509) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$DelegateWrapper.onNext(SSLTube.java:210) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.onNext(SSLTube.java:492) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.onNext(SSLTube.java:295) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run1(SubscriberWrapper.java:316) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run(SubscriberWrapper.java:259) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:205) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper.outgoing(SubscriberWrapper.java:232) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper.outgoing(SubscriberWrapper.java:198) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLFlowDelegate$Reader.processData(SSLFlowDelegate.java:458) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLFlowDelegate$Reader$ReaderDownstreamPusher.run(SSLFlowDelegate.java:282) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:205) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	... 1 more
+[03Aug2025 00:45:40.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> me voy a ahogar
+[03Aug2025 00:45:40.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 00:45:40.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 00:45:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> gg
+[03Aug2025 00:45:41.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: No skin changes]
+[03Aug2025 00:46:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> no podemos
+[03Aug2025 00:46:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> EN ESTA SILLA SI
+[03Aug2025 00:46:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> en las demas no
+[03Aug2025 00:46:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo tengo op si me deja
+[03Aug2025 00:46:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> solo los q tienen op
+[03Aug2025 00:46:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> no
+[03Aug2025 00:46:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> o yo q
+[03Aug2025 00:46:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> es que
+[03Aug2025 00:46:27.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> yo q se
+[03Aug2025 00:46:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> mira
+[03Aug2025 00:46:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo me quedo afk
+[03Aug2025 00:46:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 00:46:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> solo la de auqi enmedio
+[03Aug2025 00:47:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> are we still friends
+[03Aug2025 00:47:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> are we still friends
+[03Aug2025 00:47:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jasjasjas
+[03Aug2025 00:47:24.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> are we still friends
+[03Aug2025 00:47:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> are we still friends
+[03Aug2025 00:48:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[03Aug2025 00:48:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SALCOPE25: Teleported 7 entities to SALCOPE25]
+[03Aug2025 00:48:49.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 was shot by Agus2000 using [El Master-Arco]
+[03Aug2025 00:48:49.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Take Aim]
+[03Aug2025 00:48:58.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> TENGO LA PALANCA
+[03Aug2025 00:49:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ice_T166: Teleported Ice_T166 to SALCOPE25]
+[03Aug2025 00:49:12.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 3 item(s) from player Agus2000]
+[03Aug2025 00:49:14.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[03Aug2025 00:49:15.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 00:49:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> ya con nosotros se peta
+[03Aug2025 00:49:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> imagina si se meten mas
+[03Aug2025 00:49:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was killed
+[03Aug2025 00:49:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Killed Agus2000]
+[03Aug2025 00:49:46.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> quieto mrd
+[03Aug2025 00:49:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 00:49:53.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[03Aug2025 00:49:55.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 00:49:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[03Aug2025 00:49:58.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 00:50:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[03Aug2025 00:50:07.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> gato ptm
+[03Aug2025 00:50:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Adventure Mode]
+[03Aug2025 00:50:40.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 00:50:40.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 00:51:24.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> ig de la miku
+[03Aug2025 00:51:56.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> zzzz lock
+[03Aug2025 00:52:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> bodrio lock
+[03Aug2025 00:52:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> blu
+[03Aug2025 00:52:10.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> lock
+[03Aug2025 00:52:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> attak on bodrio
+[03Aug2025 00:52:21.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> diego enrique block
+[03Aug2025 00:53:03.578] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Agus2000 just tried to change non-editable sign
+[03Aug2025 00:53:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> quieto carajo
+[03Aug2025 00:54:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> cuando tiraba beybleids decia let it rip
