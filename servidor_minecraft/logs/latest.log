@@ -1023,3 +1023,45 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 01:45:02.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> hace esta con kit de netherite
 [03Aug2025 01:45:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> pa q dure mas
 [03Aug2025 01:45:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> va
+[03Aug2025 01:45:56.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:45:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Netherite Helmet] to 7]
+[03Aug2025 01:45:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Netherite Boots] to 7]
+[03Aug2025 01:45:56.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:45:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Netherite Chestplate] to 7]
+[03Aug2025 01:45:56.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:45:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SALCOPE25 has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ice_T166 has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has completed the challenge [Cover Me in Debris]
+[03Aug2025 01:45:56.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Netherite Leggings] to 7]
+[03Aug2025 01:45:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:46:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 01:46:14.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> dale
+[03Aug2025 01:46:14.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=88, z=-170} BlockPos{x=-91, y=88, z=-170}
+[03Aug2025 01:46:15.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=88, z=-170} BlockPos{x=-91, y=87, z=-170}
+[03Aug2025 01:46:41.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Applied effect Invisibility to Wetro__]
+[03Aug2025 01:48:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 has made the advancement [Monster Hunter]
+[03Aug2025 01:48:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> gg
+[03Aug2025 01:48:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by BluGC
+[03Aug2025 01:48:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> gg
+[03Aug2025 01:48:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 01:48:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 113 item(s) from 7 players]
+[03Aug2025 01:48:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> alguien mas quiere?
+[03Aug2025 01:49:00.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC tried to swim in lava
+[03Aug2025 01:49:19.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=88, z=-170} BlockPos{x=-91, y=87, z=-170}
+[03Aug2025 01:49:20.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=88, z=-170} BlockPos{x=-91, y=85, z=-172}
+[03Aug2025 01:49:28.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:49:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Removed effect Invisibility from Wetro__]
+[03Aug2025 01:49:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> x2
+[03Aug2025 01:50:36.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:50:44.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[03Aug2025 01:50:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[03Aug2025 01:50:46.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BluGC lost connection: Disconnected
+[03Aug2025 01:50:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC left the game
+[03Aug2025 01:50:47.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
+[03Aug2025 01:50:56.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BluGC[/127.90.13.52:49699] logged in with entity id 18340 at (-86.00383238203885, 87.1875, -171.09043071886975)
+[03Aug2025 01:50:56.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC joined the game
+[03Aug2025 01:55:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone was blown up by Creeper
