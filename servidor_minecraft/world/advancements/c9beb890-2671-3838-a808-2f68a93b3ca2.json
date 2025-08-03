@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-08-03 00:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
     "criteria": {
       "has_deepslate_coal_ore": "2025-08-03 00:40:05 +0000"

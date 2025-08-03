@@ -278,3 +278,68 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 00:53:03.578] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Agus2000 just tried to change non-editable sign
 [03Aug2025 00:53:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> quieto carajo
 [03Aug2025 00:54:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> cuando tiraba beybleids decia let it rip
+[03Aug2025 00:55:33.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[03Aug2025 00:55:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported El_Pablos21 to Agus2000]
+[03Aug2025 00:56:04.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported GatoMazo to Agus2000]
+[03Aug2025 00:56:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported BluGC to Agus2000]
+[03Aug2025 00:56:18.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Weckstone[/127.37.245.80:36059] logged in with entity id 7412 at (-79.5, 93.0, -169.5)
+[03Aug2025 00:56:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone joined the game
+[03Aug2025 00:56:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> q
+[03Aug2025 00:56:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[03Aug2025 00:56:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Adventure Mode]
+[03Aug2025 00:56:46.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Pablos21 has made the advancement [Cover Me with Diamonds]
+[03Aug2025 00:56:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> esta petando el server
+[03Aug2025 00:56:58.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> pablos se esta pasando el juego
+[03Aug2025 00:56:58.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-164}
+[03Aug2025 00:56:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC has made the advancement [Cover Me with Diamonds]
+[03Aug2025 00:56:59.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:00.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> esta matando al dragon
+[03Aug2025 00:57:01.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoMazo has made the advancement [Cover Me with Diamonds]
+[03Aug2025 00:57:15.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=86, z=-165}
+[03Aug2025 00:57:15.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:15.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:16.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:17.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 has made the advancement [Cover Me with Diamonds]
+[03Aug2025 00:57:17.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:17.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-165}
+[03Aug2025 00:57:17.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=87, z=-166}
+[03Aug2025 00:57:17.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-78, y=85, z=-168}
+[03Aug2025 00:57:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 3
+[03Aug2025 00:57:51.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 2
+[03Aug2025 00:57:52.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 1
+[03Aug2025 00:57:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> AHORA
+[03Aug2025 00:59:00.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [VIDA]]
+[03Aug2025 00:59:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set display slot list to show objective VIDA]
+[03Aug2025 00:59:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> toquen tab
+[03Aug2025 00:59:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoMazo was slain by BluGC
+[03Aug2025 00:59:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone has made the advancement [Cover Me with Diamonds]
+[03Aug2025 00:59:55.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> ya me debo ir :c
+[03Aug2025 01:00:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> chau :C
+[03Aug2025 01:00:07.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> bai bros
+[03Aug2025 01:00:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GatoMazo> pasenla chido
+[03Aug2025 01:00:11.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoMazo lost connection: Disconnected
+[03Aug2025 01:00:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoMazo left the game
+[03Aug2025 01:01:18.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> no termina mas esto zzzz
+[03Aug2025 01:01:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> el pvp
+[03Aug2025 01:01:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Pablos21> aclaro
+[03Aug2025 01:01:58.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> agarrem
+[03Aug2025 01:02:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> totems
+[03Aug2025 01:02:49.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> los tiene todos pablos
+[03Aug2025 01:03:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> quiten el paceful
+[03Aug2025 01:04:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> pociones random
+[03Aug2025 01:04:20.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> mas pociones
+[03Aug2025 01:04:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC tried to swim in lava to escape Weckstone
+[03Aug2025 01:04:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> vammooos
+[03Aug2025 01:04:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> FAK
+[03Aug2025 01:04:50.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> la fuerza
+[03Aug2025 01:04:52.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> gg
+[03Aug2025 01:04:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:04:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:04:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:04:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:04:59.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:04:59.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:05:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> primer pvp que gano en un siglo
