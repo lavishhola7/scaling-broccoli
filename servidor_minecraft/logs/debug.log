@@ -4515,3 +4515,128 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 01:35:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
 [03Aug2025 01:35:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
 [03Aug2025 01:35:43.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Primed TNT]
+[03Aug2025 01:35:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SALCOPE25> agus ya deja de hacer eso
+[03Aug2025 01:36:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported BluGC to Agus2000]
+[03Aug2025 01:36:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SALCOPE25> ven sientate asi de chill
+[03Aug2025 01:36:11.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:36:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:36:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:36:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:36:11.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:36:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:36:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC tried to swim in lava
+[03Aug2025 01:36:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> down
+[03Aug2025 01:36:22.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported BluGC to Agus2000]
+[03Aug2025 01:36:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:36:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:36:29.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:36:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:36:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:36:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:36:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:36:33.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:36:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:36:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 170 item(s) from 7 players]
+[03Aug2025 01:36:48.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:36:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:36:50.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:36:50.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:36:50.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:36:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:36:50.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:36:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:36:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:36:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:37:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 01:37:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[03Aug2025 01:37:14.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Wetro__: Set own game mode to Creative Mode]
+[03Aug2025 01:37:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Adventure Mode]
+[03Aug2025 01:37:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:37:50.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> gane
+[03Aug2025 01:37:51.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 2 [Spyglass] to genero100]
+[03Aug2025 01:38:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 01:38:14.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 107 item(s) from 7 players]
+[03Aug2025 01:38:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> otra?
+[03Aug2025 01:38:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> dale
+[03Aug2025 01:38:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported BluGC to Agus2000]
+[03Aug2025 01:38:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:38:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:38:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:38:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:38:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:38:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:38:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:38:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:38:46.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 01:39:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wetro__ has made the advancement [Spooky Scary Skeleton]
+[03Aug2025 01:40:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by BluGC
+[03Aug2025 01:40:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 01:40:15.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 1-1
+[03Aug2025 01:40:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> hacemos hasta 3?
+[03Aug2025 01:40:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 2 [Spyglass] to genero100]
+[03Aug2025 01:40:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 71 item(s) from 7 players]
+[03Aug2025 01:40:29.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:40:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:40:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:40:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:40:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:40:29.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:40:30.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:40:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:40:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> dale
+[03Aug2025 01:40:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 2 [Spyglass] to genero100]
+[03Aug2025 01:40:40.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 01:40:40.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 01:40:40.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> yo no
+[03Aug2025 01:40:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 01:41:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[03Aug2025 01:41:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC was slain by Agus2000
+[03Aug2025 01:41:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 2-1
+[03Aug2025 01:41:57.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> ora
+[03Aug2025 01:41:58.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> otra
+[03Aug2025 01:42:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> ORAORAORAORA
+[03Aug2025 01:42:10.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 01:42:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> HAY UN CREEPER
+[03Aug2025 01:42:24.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 102 item(s) from 7 players]
+[03Aug2025 01:42:31.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported BluGC to Agus2000]
+[03Aug2025 01:42:36.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:42:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:42:37.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:42:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:42:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:42:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:42:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:42:37.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:42:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> alguno de ustedes quiere ver?
+[03Aug2025 01:42:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que fue
+[03Aug2025 01:43:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo si agus
+[03Aug2025 01:43:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> tpeate
+[03Aug2025 01:43:20.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> ponete una silla
+[03Aug2025 01:43:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Agus2000]
+[03Aug2025 01:43:40.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[03Aug2025 01:43:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Adventure Mode]
+[03Aug2025 01:43:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> tenes 6 no?
+[03Aug2025 01:43:55.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> si
+[03Aug2025 01:43:58.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> bien
+[03Aug2025 01:43:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[03Aug2025 01:44:01.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> vamos
+[03Aug2025 01:44:28.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[03Aug2025 01:44:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by BluGC
+[03Aug2025 01:44:38.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[03Aug2025 01:44:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 2-2
+[03Aug2025 01:44:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> LA GRAN FINAL
+[03Aug2025 01:44:50.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> ESTAN TODOS INVITADOS
+[03Aug2025 01:44:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed 78 item(s) from 7 players]
+[03Aug2025 01:45:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Sword] to 7]
+[03Aug2025 01:45:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Helmet] to 7]
+[03Aug2025 01:45:00.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Boots] to 7]
+[03Aug2025 01:45:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Shield] to 7]
+[03Aug2025 01:45:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Chestplate] to 7]
+[03Aug2025 01:45:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Axe] to 7]
+[03Aug2025 01:45:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Diamond Leggings] to 7]
+[03Aug2025 01:45:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 6 [Golden Apple] to 7]
+[03Aug2025 01:45:02.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> hace esta con kit de netherite
+[03Aug2025 01:45:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BluGC> pa q dure mas
+[03Aug2025 01:45:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> va
+[03Aug2025 01:45:40.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 01:45:40.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
