@@ -1880,3 +1880,8 @@ Caused by: java.lang.IllegalArgumentException: no profile with name ice_t
 [03Aug2025 00:20:40.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2025 00:20:40.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Aug2025 00:20:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[03Aug2025 00:25:40.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 00:25:40.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 00:29:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[03Aug2025 00:30:40.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 00:30:40.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
