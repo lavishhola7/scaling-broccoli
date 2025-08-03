@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2025-08-03 02:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-03 02:01:23 +0000"
@@ -44,6 +50,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_string": "2025-08-03 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_birch_light_ceiling_fan": "2025-08-03 02:06:52 +0000"
     },
     "done": true
   },
@@ -181,6 +193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-03 02:07:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-08-03 02:01:23 +0000"
@@ -220,6 +238,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2025-08-03 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-08-03 02:07:55 +0000"
     },
     "done": true
   },

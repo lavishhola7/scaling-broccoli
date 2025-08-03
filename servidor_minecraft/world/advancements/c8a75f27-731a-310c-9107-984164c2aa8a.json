@@ -1355,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-03 02:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 00:39:52 +0000"
@@ -1484,6 +1490,18 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-08-03 02:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-03 02:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-03 02:05:51 +0000"
     },
     "done": true
   },

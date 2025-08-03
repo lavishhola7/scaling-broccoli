@@ -1098,3 +1098,8 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 02:03:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Applied effect Resistance to BluGC]
 [03Aug2025 02:03:44.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported BluGC to genero100]
 [03Aug2025 02:03:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[03Aug2025 02:08:17.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BluGC lost connection: Disconnected
+[03Aug2025 02:08:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC left the game
+[03Aug2025 02:12:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como le diste energia wat
+[03Aug2025 02:12:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aaaaa
+[03Aug2025 02:12:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> wow

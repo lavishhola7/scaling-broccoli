@@ -4951,3 +4951,24 @@ Caused by: java.io.IOException: /10.0.0.13:56068: GOAWAY received
 [03Aug2025 02:03:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
 [03Aug2025 02:05:40.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2025 02:05:40.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 02:07:14.848] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=93, z=-166}
+[03Aug2025 02:08:17.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BluGC lost connection: Disconnected
+[03Aug2025 02:08:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BluGC left the game
+[03Aug2025 02:08:17.797] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-99, y=87, z=-166}
+[03Aug2025 02:08:35.499] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-99, y=87, z=-167}
+[03Aug2025 02:08:37.151] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-99, y=86, z=-167}
+[03Aug2025 02:08:39.148] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-99, y=86, z=-166}
+[03Aug2025 02:10:40.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:10:40.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 02:12:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como le diste energia wat
+[03Aug2025 02:12:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aaaaa
+[03Aug2025 02:12:18.600] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-102, y=86, z=-168}
+[03Aug2025 02:12:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> wow
+[03Aug2025 02:13:15.752] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-93, y=89, z=-160}
+[03Aug2025 02:13:29.501] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-96, y=86, z=-165}
+[03Aug2025 02:13:45.550] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-96, y=86, z=-165}
+[03Aug2025 02:15:39.649] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=87, z=-164}
+[03Aug2025 02:15:39.961] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=87, z=-166}
+[03Aug2025 02:15:40.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:15:40.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 02:15:58.800] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=87, z=-165}
