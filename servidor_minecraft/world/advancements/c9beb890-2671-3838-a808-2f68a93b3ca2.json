@@ -1596,6 +1596,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-08-07 22:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-07 22:01:57 +0000"
@@ -1629,6 +1635,12 @@
   "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-07 22:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-07 22:36:54 +0000"
     },
     "done": true
   },
@@ -1674,6 +1686,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-07 22:31:10 +0000",
+      "minecraft:creeper": "2025-08-07 22:34:26 +0000",
+      "minecraft:zombie": "2025-08-07 22:32:04 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
     "criteria": {
       "has_orange_dye": "2025-08-07 22:01:57 +0000"
@@ -1707,6 +1727,18 @@
   "refurbished_furniture:recipes/misc/constructing/orange_basin": {
     "criteria": {
       "has_orange_dye": "2025-08-07 22:01:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-08-07 22:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-07 22:31:11 +0000"
     },
     "done": true
   },
@@ -1767,6 +1799,12 @@
   "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-07 22:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2025-08-07 22:37:45 +0000"
     },
     "done": true
   },
@@ -1902,6 +1940,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-08-07 22:32:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_bath": {
     "criteria": {
       "has_orange_dye": "2025-08-07 22:01:57 +0000"
@@ -1956,6 +2000,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-08-07 22:37:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-07 22:01:57 +0000"
@@ -1980,9 +2030,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-07 22:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-07 22:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-07 22:34:26 +0000"
     },
     "done": true
   },
@@ -2007,6 +2069,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-07 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-07 22:34:26 +0000"
     },
     "done": true
   },
