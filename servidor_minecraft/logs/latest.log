@@ -90,3 +90,8 @@
 [07Aug2025 22:09:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
 [07Aug2025 22:10:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
 [07Aug2025 22:15:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[07Aug2025 22:22:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to Agus2000]
+[07Aug2025 22:22:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to Agus2000]
+[07Aug2025 22:22:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to Agus2000]
+[07Aug2025 22:22:41.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to Agus2000]
+[07Aug2025 22:22:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to Agus2000]

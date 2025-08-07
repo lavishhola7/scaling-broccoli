@@ -1162,3 +1162,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Aug2025 22:14:19.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b1pygi5jlakk]: Consuming argument `white,orange_glazed_terracotta`
 [07Aug2025 22:14:19.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b1pygi5jlakk]: Finished looking at arguments. Finalizing command.
 [07Aug2025 22:15:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[07Aug2025 22:17:27.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:17:27.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:22:27.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:22:27.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:22:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to Agus2000]
+[07Aug2025 22:22:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.beacon.power_select to Agus2000]
+[07Aug2025 22:22:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to Agus2000]
+[07Aug2025 22:22:41.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to Agus2000]
+[07Aug2025 22:22:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:block.note_block.bell to Agus2000]
+[07Aug2025 22:24:21.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o03r6ntfvn98]: started parsing
+[07Aug2025 22:24:21.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o03r6ntfvn98]: Consuming argument `white,orange_glazed_terracotta`
+[07Aug2025 22:24:21.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o03r6ntfvn98]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:24:21.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v8riblosjua]: started parsing
+[07Aug2025 22:24:21.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v8riblosjua]: Consuming argument `white,orange_glazed_terracotta`
+[07Aug2025 22:24:21.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v8riblosjua]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:24:23.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152fqdvy4bsok]: started parsing
+[07Aug2025 22:24:23.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152fqdvy4bsok]: Consuming argument ``
+[07Aug2025 22:24:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l0wuvs8jifgq]: started parsing
+[07Aug2025 22:24:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l0wuvs8jifgq]: Consuming argument `0`
+[07Aug2025 22:24:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l0wuvs8jifgq]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:24:23.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vrmb6azci6zy]: started parsing
+[07Aug2025 22:24:23.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vrmb6azci6zy]: Consuming argument `0'`
+[07Aug2025 22:24:24.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mq11iwsvn2s3]: started parsing
+[07Aug2025 22:24:24.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mq11iwsvn2s3]: Consuming argument `0`
+[07Aug2025 22:24:24.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mq11iwsvn2s3]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:24:24.442] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yomorbqneoth]: started parsing
+[07Aug2025 22:24:24.442] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yomorbqneoth]: Consuming argument `0`
+[07Aug2025 22:24:24.442] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yomorbqneoth]: Finished looking at arguments. Finalizing command.
