@@ -87,3 +87,6 @@
 [07Aug2025 22:05:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created team [rosa]]
 [07Aug2025 22:05:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Updated the color for team [rosa] to light_purple]
 [07Aug2025 22:05:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Added Agus2000 to team [rosa]]
+[07Aug2025 22:09:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[07Aug2025 22:10:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[07Aug2025 22:15:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
