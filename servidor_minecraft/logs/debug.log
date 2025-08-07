@@ -1889,3 +1889,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Aug2025 23:02:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 21 block(s)]
 [07Aug2025 23:03:07.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 21 block(s)]
 [07Aug2025 23:03:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[07Aug2025 23:07:27.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:07:27.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:10:47.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1weukud72ukch]: started parsing
+[07Aug2025 23:10:47.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1weukud72ukch]: Consuming argument ``
+[07Aug2025 23:10:47.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05sewawbkzrez]: started parsing
+[07Aug2025 23:10:47.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05sewawbkzrez]: Consuming argument `0`
+[07Aug2025 23:10:47.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05sewawbkzrez]: Finished looking at arguments. Finalizing command.
+[07Aug2025 23:10:48.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152m2zvag4gi6]: started parsing
+[07Aug2025 23:10:48.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152m2zvag4gi6]: Consuming argument `0`
+[07Aug2025 23:10:48.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152m2zvag4gi6]: Finished looking at arguments. Finalizing command.
+[07Aug2025 23:12:27.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:12:27.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
