@@ -2079,3 +2079,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Aug2025 23:45:29.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwjx5wjzv34u]: started parsing
 [07Aug2025 23:45:29.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwjx5wjzv34u]: Consuming argument `0`
 [07Aug2025 23:45:29.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwjx5wjzv34u]: Finished looking at arguments. Finalizing command.
+[07Aug2025 23:47:27.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:47:27.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:52:27.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:52:27.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:57:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[07Aug2025 23:57:27.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:57:27.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
