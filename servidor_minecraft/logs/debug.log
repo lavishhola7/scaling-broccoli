@@ -1827,3 +1827,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Aug2025 22:44:47.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1fz4k3428z3]: Finished looking at arguments. Finalizing command.
 [07Aug2025 22:46:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set the time to 1000]
 [07Aug2025 22:46:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[07Aug2025 22:47:27.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:47:27.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmkzft6jkkmh]: started parsing
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmkzft6jkkmh]: Consuming argument `tinted_glass`
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmkzft6jkkmh]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xt3fy7vgmvnl]: started parsing
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xt3fy7vgmvnl]: Consuming argument `tinted_glass`
+[07Aug2025 22:48:01.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xt3fy7vgmvnl]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:02.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4c0mro1u8fn]: started parsing
+[07Aug2025 22:48:02.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4c0mro1u8fn]: Consuming argument `0`
+[07Aug2025 22:48:02.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4c0mro1u8fn]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:02.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vixi16y6lucc]: started parsing
+[07Aug2025 22:48:02.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vixi16y6lucc]: Consuming argument `0`
+[07Aug2025 22:48:02.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vixi16y6lucc]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:02.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwf4v68eur4a]: started parsing
+[07Aug2025 22:48:02.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwf4v68eur4a]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:02.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwf4v68eur4a]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:02.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jaam8wu0uyn]: started parsing
+[07Aug2025 22:48:02.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jaam8wu0uyn]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:02.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jaam8wu0uyn]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:03.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0skl84cn3qior]: started parsing
+[07Aug2025 22:48:03.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0skl84cn3qior]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:03.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0skl84cn3qior]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[07Aug2025 22:48:20.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zs4stk0gyv4c]: started parsing
+[07Aug2025 22:48:20.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zs4stk0gyv4c]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:20.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zs4stk0gyv4c]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:20.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2vhdqi0nggf]: started parsing
+[07Aug2025 22:48:20.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2vhdqi0nggf]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:20.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2vhdqi0nggf]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:22.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00jrq7ml8m9bo]: started parsing
+[07Aug2025 22:48:22.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00jrq7ml8m9bo]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[07Aug2025 22:48:30.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m9hf1ct52th]: started parsing
+[07Aug2025 22:48:30.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m9hf1ct52th]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:30.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m9hf1ct52th]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:30.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mxptldbhciy]: started parsing
+[07Aug2025 22:48:30.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mxptldbhciy]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:30.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mxptldbhciy]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:30.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bgqth5er6i6]: started parsing
+[07Aug2025 22:48:30.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bgqth5er6i6]: Consuming argument `light_gray_concrete`
+[07Aug2025 22:48:30.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bgqth5er6i6]: Finished looking at arguments. Finalizing command.
+[07Aug2025 22:48:45.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[07Aug2025 22:48:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[07Aug2025 22:52:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[07Aug2025 22:52:16.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[07Aug2025 22:52:27.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:52:27.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
