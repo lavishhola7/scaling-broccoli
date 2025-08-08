@@ -2884,3 +2884,81 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 20:07:13.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnqx6m0moefq]: Consuming argument `2`
 [08Aug2025 20:07:13.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnqx6m0moefq]: Consuming argument `3`
 [08Aug2025 20:07:13.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cnqx6m0moefq]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:08:59.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:08:59.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 20:13:03.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set the time to 1000]
+[08Aug2025 20:13:59.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:13:59.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 20:17:18.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hj78qdyadfi7]: started parsing
+[08Aug2025 20:17:18.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hj78qdyadfi7]: Consuming argument `air`
+[08Aug2025 20:17:18.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hj78qdyadfi7]: Consuming argument `2`
+[08Aug2025 20:17:18.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hj78qdyadfi7]: Consuming argument `3`
+[08Aug2025 20:17:18.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hj78qdyadfi7]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:18.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00qqwba8fvkgw]: started parsing
+[08Aug2025 20:17:18.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00qqwba8fvkgw]: Consuming argument `air`
+[08Aug2025 20:17:18.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00qqwba8fvkgw]: Consuming argument `2`
+[08Aug2025 20:17:18.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00qqwba8fvkgw]: Consuming argument `3`
+[08Aug2025 20:17:18.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00qqwba8fvkgw]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:18.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xwbwlqdcv61j]: started parsing
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xwbwlqdcv61j]: Consuming argument `glass`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xwbwlqdcv61j]: Consuming argument `3`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xwbwlqdcv61j]: Consuming argument `3`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xwbwlqdcv61j]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mr60kznnkm7e]: started parsing
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mr60kznnkm7e]: Consuming argument `glass`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mr60kznnkm7e]: Consuming argument `3`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mr60kznnkm7e]: Consuming argument `3`
+[08Aug2025 20:17:18.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mr60kznnkm7e]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wg56rbeuxmf]: started parsing
+[08Aug2025 20:17:19.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wg56rbeuxmf]: Consuming argument `3`
+[08Aug2025 20:17:19.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wg56rbeuxmf]: Consuming argument `3`
+[08Aug2025 20:17:19.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11wg56rbeuxmf]: Consuming argument `glass`
+[08Aug2025 20:17:19.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ok2nulupllqz]: started parsing
+[08Aug2025 20:17:19.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ok2nulupllqz]: Consuming argument `3`
+[08Aug2025 20:17:19.009] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ok2nulupllqz]: Consuming argument `3`
+[08Aug2025 20:17:19.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ok2nulupllqz]: Consuming argument `glass`
+[08Aug2025 20:17:19.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vnwnyzbv112]: started parsing
+[08Aug2025 20:17:19.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vnwnyzbv112]: Consuming argument `7`
+[08Aug2025 20:17:19.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vnwnyzbv112]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10b66m8ghime5]: started parsing
+[08Aug2025 20:17:19.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10b66m8ghime5]: Consuming argument `7`
+[08Aug2025 20:17:19.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10b66m8ghime5]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01660s4d1ylvq]: started parsing
+[08Aug2025 20:17:19.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01660s4d1ylvq]: Consuming argument `air`
+[08Aug2025 20:17:19.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01660s4d1ylvq]: Consuming argument `7`
+[08Aug2025 20:17:19.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01660s4d1ylvq]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rbmn0xmz2gq]: started parsing
+[08Aug2025 20:17:19.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rbmn0xmz2gq]: Consuming argument `air`
+[08Aug2025 20:17:19.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rbmn0xmz2gq]: Consuming argument `7`
+[08Aug2025 20:17:19.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rbmn0xmz2gq]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rqccme5nepqy]: started parsing
+[08Aug2025 20:17:19.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rqccme5nepqy]: Consuming argument `pink`
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rqccme5nepqy]: Consuming argument `8`
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rqccme5nepqy]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18m0wntls2x0r]: started parsing
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18m0wntls2x0r]: Consuming argument `pink`
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18m0wntls2x0r]: Consuming argument `8`
+[08Aug2025 20:17:19.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18m0wntls2x0r]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1myq9bu5cofah]: started parsing
+[08Aug2025 20:17:20.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1myq9bu5cofah]: Consuming argument `gray`
+[08Aug2025 20:17:20.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1myq9bu5cofah]: Consuming argument `9`
+[08Aug2025 20:17:20.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1myq9bu5cofah]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie3wrgz2ayxv]: started parsing
+[08Aug2025 20:17:20.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie3wrgz2ayxv]: Consuming argument `gray`
+[08Aug2025 20:17:20.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie3wrgz2ayxv]: Consuming argument `9`
+[08Aug2025 20:17:20.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie3wrgz2ayxv]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7cr0o5jsbp5]: started parsing
+[08Aug2025 20:17:20.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7cr0o5jsbp5]: Consuming argument `gray`
+[08Aug2025 20:17:20.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7cr0o5jsbp5]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011gve7c5yo2p]: started parsing
+[08Aug2025 20:17:20.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011gve7c5yo2p]: Consuming argument `gray`
+[08Aug2025 20:17:20.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011gve7c5yo2p]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wt44q0uta2on]: started parsing
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wt44q0uta2on]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wt44q0uta2on]: Consuming argument `9`
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wt44q0uta2on]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: started parsing
+[08Aug2025 20:17:20.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:17:20.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: Consuming argument `9`
+[08Aug2025 20:17:20.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:17:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new A ]
