@@ -1,1 +1,19 @@
 [08Aug2025 00:01:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Successfully filled 12 block(s)]
+[08Aug2025 00:07:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 00:07:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 00:12:24.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[08Aug2025 00:12:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[08Aug2025 00:12:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Aug2025 00:12:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Aug2025 00:12:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Aug2025 00:12:45.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Aug2025 00:12:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Aug2025 00:12:47.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Aug2025 00:12:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Aug2025 00:12:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Aug2025 00:12:47.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Aug2025 00:12:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Aug2025 00:12:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Aug2025 00:12:47.709] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Aug2025 00:12:47.713] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[08Aug2025 00:12:47.718] [Server thread/INFO] [Framework/]: Finished unloading server configs
