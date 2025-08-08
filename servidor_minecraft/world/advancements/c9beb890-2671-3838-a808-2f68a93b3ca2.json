@@ -1689,6 +1689,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-07 22:31:10 +0000",
+      "minecraft:spider": "2025-08-08 00:00:13 +0000",
       "minecraft:creeper": "2025-08-07 22:34:26 +0000",
       "minecraft:zombie": "2025-08-07 22:32:04 +0000"
     },
@@ -1856,6 +1857,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-08 00:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-07 22:02:01 +0000"
@@ -1895,6 +1902,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-07 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-08 00:00:18 +0000"
     },
     "done": true
   },
