@@ -1173,3 +1173,5 @@
 [08Aug2025 20:23:25.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new X ]
 [08Aug2025 20:23:30.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Y ]
 [08Aug2025 20:23:34.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Z ]
+[08Aug2025 20:37:24.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:37:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
