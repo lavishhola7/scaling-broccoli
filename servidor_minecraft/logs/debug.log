@@ -3375,3 +3375,117 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 20:34:56.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pivgd4o2wgeh]: Finished looking at arguments. Finalizing command.
 [08Aug2025 20:37:24.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
 [08Aug2025 20:37:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:38:49.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uj8bdss2svdo]: started parsing
+[08Aug2025 20:38:49.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uj8bdss2svdo]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:38:49.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uj8bdss2svdo]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:49.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu37mzkik2zv]: started parsing
+[08Aug2025 20:38:49.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu37mzkik2zv]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:38:49.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu37mzkik2zv]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17n61fqhaw0cu]: started parsing
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17n61fqhaw0cu]: Consuming argument `light_gray,light_gray_concrete`
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17n61fqhaw0cu]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a6hitx797ev4]: started parsing
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a6hitx797ev4]: Consuming argument `light_gray,light_gray_concrete`
+[08Aug2025 20:38:50.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a6hitx797ev4]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:50.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m5ox6sps6amg]: started parsing
+[08Aug2025 20:38:50.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m5ox6sps6amg]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:38:50.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m5ox6sps6amg]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:50.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4ln0hclhcbn]: started parsing
+[08Aug2025 20:38:50.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4ln0hclhcbn]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:38:50.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4ln0hclhcbn]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:51.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013y250hahioy]: started parsing
+[08Aug2025 20:38:51.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013y250hahioy]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:38:51.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013y250hahioy]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:38:59.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:38:59.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 20:39:01.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wba3pbjnd9d]: started parsing
+[08Aug2025 20:39:01.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wba3pbjnd9d]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:01.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wba3pbjnd9d]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:01.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vwhggfbgo8d]: started parsing
+[08Aug2025 20:39:01.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vwhggfbgo8d]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:01.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10vwhggfbgo8d]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:01.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qu0lbvc1eye]: started parsing
+[08Aug2025 20:39:01.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qu0lbvc1eye]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:01.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qu0lbvc1eye]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:39:10.684] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ec8a18jojo8o]: started parsing
+[08Aug2025 20:39:10.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ec8a18jojo8o]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:13.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pkmwjk0do8to]: started parsing
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pkmwjk0do8to]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pkmwjk0do8to]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lf8jl6rqqe]: started parsing
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lf8jl6rqqe]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:17.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lf8jl6rqqe]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:17.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llr0wujfuyve]: started parsing
+[08Aug2025 20:39:17.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llr0wujfuyve]: Consuming argument `white,white_glazed_terracotta`
+[08Aug2025 20:39:17.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llr0wujfuyve]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:39:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:39:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:40:09.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hm412bn17js]: started parsing
+[08Aug2025 20:40:09.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hm412bn17js]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:40:26.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aidqip8lage0]: started parsing
+[08Aug2025 20:40:26.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aidqip8lage0]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:40:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:40:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:43:59.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:43:59.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 20:47:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:48:07.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:48:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07hnytmb2il56]: started parsing
+[08Aug2025 20:48:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07hnytmb2il56]: Consuming argument ``
+[08Aug2025 20:48:21.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f6yx2fyg14vx]: started parsing
+[08Aug2025 20:48:21.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f6yx2fyg14vx]: Consuming argument `w`
+[08Aug2025 20:48:21.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ies2k7853mil]: started parsing
+[08Aug2025 20:48:21.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ies2k7853mil]: Consuming argument `wh`
+[08Aug2025 20:48:21.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n6qzv8tlm4i9]: started parsing
+[08Aug2025 20:48:21.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n6qzv8tlm4i9]: Consuming argument `whi`
+[08Aug2025 20:48:21.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zowwhfnwdkbs]: started parsing
+[08Aug2025 20:48:21.929] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zowwhfnwdkbs]: Consuming argument `whit`
+[08Aug2025 20:48:22.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1snmwz8l83qt2]: started parsing
+[08Aug2025 20:48:22.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1snmwz8l83qt2]: Consuming argument `white`
+[08Aug2025 20:48:22.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1snmwz8l83qt2]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:22.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0izhy5ui0bczn]: started parsing
+[08Aug2025 20:48:22.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0izhy5ui0bczn]: Consuming argument `white,`
+[08Aug2025 20:48:23.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ntc9ro5tp4og]: started parsing
+[08Aug2025 20:48:23.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ntc9ro5tp4og]: Consuming argument `white,o`
+[08Aug2025 20:48:23.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0koyv41pmea2v]: started parsing
+[08Aug2025 20:48:23.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0koyv41pmea2v]: Consuming argument `white,or`
+[08Aug2025 20:48:23.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17uu7fyqgf45w]: started parsing
+[08Aug2025 20:48:23.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17uu7fyqgf45w]: Consuming argument `white,ora`
+[08Aug2025 20:48:23.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u100bvxdshaa]: started parsing
+[08Aug2025 20:48:23.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u100bvxdshaa]: Consuming argument `white,oran`
+[08Aug2025 20:48:24.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j6apiehky4ce]: started parsing
+[08Aug2025 20:48:24.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j6apiehky4ce]: Consuming argument `white,orang`
+[08Aug2025 20:48:24.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srrvzdonotrg]: started parsing
+[08Aug2025 20:48:24.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srrvzdonotrg]: Consuming argument `white,orange`
+[08Aug2025 20:48:24.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0srrvzdonotrg]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:24.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wkauo0ql24sa]: started parsing
+[08Aug2025 20:48:24.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wkauo0ql24sa]: Consuming argument `white,orange_`
+[08Aug2025 20:48:24.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w0u3bbdwj5tf]: started parsing
+[08Aug2025 20:48:24.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w0u3bbdwj5tf]: Consuming argument `white,orange_g`
+[08Aug2025 20:48:26.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4brr19e5la8]: started parsing
+[08Aug2025 20:48:26.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4brr19e5la8]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:26.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4brr19e5la8]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:48:32.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:48:34.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eafo38hdml4u]: started parsing
+[08Aug2025 20:48:34.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eafo38hdml4u]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:34.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eafo38hdml4u]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:34.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12i3rx6rztiij]: started parsing
+[08Aug2025 20:48:34.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12i3rx6rztiij]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:34.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12i3rx6rztiij]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:34.994] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ug7479firzz]: started parsing
+[08Aug2025 20:48:34.994] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ug7479firzz]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:34.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ug7479firzz]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:38.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 20:48:41.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 20:48:44.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k2ue9o8a3dmc]: started parsing
+[08Aug2025 20:48:44.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k2ue9o8a3dmc]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:44.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k2ue9o8a3dmc]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:44.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0caj6prflvkki]: started parsing
+[08Aug2025 20:48:44.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0caj6prflvkki]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:44.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0caj6prflvkki]: Finished looking at arguments. Finalizing command.
+[08Aug2025 20:48:44.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu0b3t915e5u]: started parsing
+[08Aug2025 20:48:44.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu0b3t915e5u]: Consuming argument `white,orange_glazed_terracotta`
+[08Aug2025 20:48:44.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu0b3t915e5u]: Finished looking at arguments. Finalizing command.
