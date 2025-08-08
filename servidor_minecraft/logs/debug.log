@@ -2962,3 +2962,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 20:17:20.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: Consuming argument `9`
 [08Aug2025 20:17:20.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fjiafl2qrqo]: Finished looking at arguments. Finalizing command.
 [08Aug2025 20:17:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new A ]
+[08Aug2025 20:18:59.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:18:59.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 20:19:04.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> minecraftjson.com
+[08Aug2025 20:19:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Killed A ]
+[08Aug2025 20:19:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new A ]
+[08Aug2025 20:19:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new ??? ]
+[08Aug2025 20:20:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new b ]
+[08Aug2025 20:20:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Killed 2 entities]
+[08Aug2025 20:20:27.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new A ]
+[08Aug2025 20:20:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new B ]
+[08Aug2025 20:20:44.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new C ]
+[08Aug2025 20:20:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new D ]
+[08Aug2025 20:20:59.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new E ]
+[08Aug2025 20:21:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new F ]
+[08Aug2025 20:21:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new G ]
+[08Aug2025 20:21:23.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new H ]
+[08Aug2025 20:21:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new I ]
+[08Aug2025 20:21:32.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new J ]
+[08Aug2025 20:22:00.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new K ]
+[08Aug2025 20:22:04.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new L ]
+[08Aug2025 20:22:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new M ]
+[08Aug2025 20:22:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new N ]
+[08Aug2025 20:22:24.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Ñ ]
+[08Aug2025 20:22:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new O ]
+[08Aug2025 20:22:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new P ]
+[08Aug2025 20:22:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Q ]
+[08Aug2025 20:22:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new R ]
+[08Aug2025 20:22:55.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new S ]
+[08Aug2025 20:23:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new T ]
+[08Aug2025 20:23:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new U ]
+[08Aug2025 20:23:14.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new V ]
+[08Aug2025 20:23:20.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new W ]
+[08Aug2025 20:23:25.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new X ]
+[08Aug2025 20:23:30.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Y ]
+[08Aug2025 20:23:34.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Z ]
+[08Aug2025 20:23:59.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 20:23:59.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
