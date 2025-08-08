@@ -1,19 +1,90 @@
-[08Aug2025 00:01:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Successfully filled 12 block(s)]
-[08Aug2025 00:07:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[08Aug2025 00:07:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[08Aug2025 00:12:24.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[08Aug2025 00:12:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[08Aug2025 00:12:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[08Aug2025 00:12:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08Aug2025 00:12:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08Aug2025 00:12:45.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08Aug2025 00:12:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08Aug2025 00:12:47.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08Aug2025 00:12:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08Aug2025 00:12:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08Aug2025 00:12:47.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Aug2025 00:12:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Aug2025 00:12:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08Aug2025 00:12:47.709] [Server thread/INFO] [Framework/]: Unloading server configs...
-[08Aug2025 00:12:47.713] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[08Aug2025 00:12:47.718] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[08Aug2025 19:18:07.994] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Aug2025 19:18:07.999] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[08Aug2025 19:18:08.672] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Aug2025 19:18:08.786] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Aug2025 19:18:09.275] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Aug2025 19:18:09.278] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Aug2025 19:18:09.280] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Aug2025 19:18:09.283] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Aug2025 19:18:09.549] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[08Aug2025 19:18:12.673] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Aug2025 19:18:12.693] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Aug2025 19:18:22.470] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zzc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08Aug2025 19:18:24.863] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Aug2025 19:18:24.865] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Aug2025 19:18:26.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Aug2025 19:18:27.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[08Aug2025 19:18:27.742] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@450b02a5]
+[08Aug2025 19:18:27.754] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[08Aug2025 19:18:27.832] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[08Aug2025 19:18:30.834] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Aug2025 19:18:32.434] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[08Aug2025 19:18:32.437] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[08Aug2025 19:18:34.257] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[08Aug2025 19:18:35.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[08Aug2025 19:18:35.885] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1977 advancements
+[08Aug2025 19:18:36.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Aug2025 19:18:36.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Aug2025 19:18:36.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Aug2025 19:18:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Aug2025 19:18:36.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Aug2025 19:18:37.017] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Aug2025 19:18:37.131] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Aug2025 19:18:37.132] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Aug2025 19:18:37.132] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Aug2025 19:18:37.134] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Aug2025 19:18:37.223] [Server thread/INFO] [Framework/]: Loading server configs...
+[08Aug2025 19:18:37.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Aug2025 19:18:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Aug2025 19:18:45.394] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[08Aug2025 19:18:52.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:52.764] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:52.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:52.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.081] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.144] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.159] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:53.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:54.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:54.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:55.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Aug2025 19:18:55.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[08Aug2025 19:18:56.311] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[08Aug2025 19:18:56.390] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11726 ms
+[08Aug2025 19:18:56.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.234s)! For help, type "help"
+[08Aug2025 19:18:56.455] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Aug2025 19:19:33.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.181.157.231:51057] logged in with entity id 173 at (-73.79120280845599, 90.60834672316614, -125.2419138824574)
+[08Aug2025 19:19:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[08Aug2025 19:19:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[08Aug2025 19:19:58.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[08Aug2025 19:21:13.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the time to 1000]
+[08Aug2025 19:22:00.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [TimerBossbar]]
+[08Aug2025 19:22:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Ticks]]
+[08Aug2025 19:22:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Segundos]]
+[08Aug2025 19:22:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Minutos]]
+[08Aug2025 19:23:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created custom bossbar [Tiempo]]
+[08Aug2025 19:23:50.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:23:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed maximum to 1800]
+[08Aug2025 19:24:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:24:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] now has 1 player(s): Agus2000]
+[08Aug2025 19:24:50.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed value to 300]
+[08Aug2025 19:25:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:21.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:26.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:34.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed color]
+[08Aug2025 19:25:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Tiempo] has changed value to 0]
+[08Aug2025 19:27:12.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Summoned new Armor Stand]
