@@ -161,3 +161,53 @@ java.lang.IllegalStateException: not found
 [16Aug2025 23:16:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 35
 [16Aug2025 23:16:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> donde lo pongo
 [16Aug2025 23:17:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> al final o donde el 600
+[16Aug2025 23:17:50.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> funciono?
+[16Aug2025 23:18:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xdddddddddddd
+[16Aug2025 23:18:17.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mateo2006[/127.68.185.179:35597] logged in with entity id 1371 at (-81.5, 95.0, -159.5)
+[16Aug2025 23:18:17.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2006 joined the game
+[16Aug2025 23:18:18.258] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mateo2006 (18)
+[16Aug2025 23:18:18.258] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mateo2006
+[16Aug2025 23:18:20.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbb6db4f-1b1a-3738-9ca7-153dc7ba9ffa
+[16Aug2025 23:18:22.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbb6db4f-1b1a-3738-9ca7-153dc7ba9ffa
+[16Aug2025 23:18:22.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mateo2006 (fbb6db4f-1b1a-3738-9ca7-153dc7ba9ffa) successfully connected to voice chat
+[16Aug2025 23:18:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported Mateo2006 to Agus2000]
+[16Aug2025 23:18:34.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> djsjsdajsdjdsjsd
+[16Aug2025 23:18:37.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> xddd
+[16Aug2025 23:18:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cariocassa> xddd
+[16Aug2025 23:18:48.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> ustedes saben como soy con los sonidos >:
+[16Aug2025 23:19:03.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mateo2006 moved wrongly!
+[16Aug2025 23:19:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ok
+[16Aug2025 23:19:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ooo ok
+[16Aug2025 23:20:36.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xddd
+[16Aug2025 23:20:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Added genero100 to team [rosa]]
+[16Aug2025 23:22:31.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> cario hablas?
+[16Aug2025 23:22:36.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> okok
+[16Aug2025 23:22:46.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[16Aug2025 23:23:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> ponganme en surv
+[16Aug2025 23:23:14.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae vengo
+[16Aug2025 23:23:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> nose si hablar
+[16Aug2025 23:23:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported 6 entities to Agus2000]
+[16Aug2025 23:23:34.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[16Aug2025 23:23:36.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> quiero pero me da pena
+[16Aug2025 23:24:20.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> volvi que me hablaron xd
+[16Aug2025 23:24:23.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set dorito_20YT's game mode to Spectator Mode]
+[16Aug2025 23:24:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> pa q avisas
+[16Aug2025 23:24:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set cariocassa's game mode to Spectator Mode]
+[16Aug2025 23:24:29.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> xd
+[16Aug2025 23:24:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> esa velocidad
+[16Aug2025 23:24:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[16Aug2025 23:24:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> mas rapido
+[16Aug2025 23:24:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> xd
+[16Aug2025 23:24:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[16Aug2025 23:24:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[16Aug2025 23:24:50.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[16Aug2025 23:25:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> nosotros nos vamos?
+[16Aug2025 23:25:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> agus
+[16Aug2025 23:25:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[16Aug2025 23:25:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> oa
+[16Aug2025 23:25:46.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si
+[16Aug2025 23:25:51.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[16Aug2025 23:26:03.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> esa velocidad
+[16Aug2025 23:26:05.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[16Aug2025 23:27:05.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> como le sabe
+[16Aug2025 23:27:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dorito_20YT> .-.
