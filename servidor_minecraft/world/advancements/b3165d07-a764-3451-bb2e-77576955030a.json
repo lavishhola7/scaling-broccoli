@@ -375,5 +375,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-16 23:56:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
