@@ -62,9 +62,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "tropical_fish": "2025-08-16 23:57:40 +0000",
+      "bread": "2025-08-17 00:15:48 +0000",
       "salmon": "2025-08-16 23:59:08 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-08-17 00:13:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
