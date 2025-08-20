@@ -1,116 +1,81 @@
-[20Aug2025 00:11:33.317] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Aug2025 00:11:33.323] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[20Aug2025 00:11:34.614] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Aug2025 00:11:34.757] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Aug2025 00:11:35.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Aug2025 00:11:35.264] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Aug2025 00:11:35.266] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Aug2025 00:11:35.269] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Aug2025 00:11:35.442] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[20Aug2025 00:11:37.247] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Aug2025 00:11:37.255] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Aug2025 00:11:43.064] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zzc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[20Aug2025 00:11:44.344] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Aug2025 00:11:44.348] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Aug2025 00:11:46.091] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[20Aug2025 00:11:46.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[20Aug2025 00:11:46.169] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[20Aug2025 00:11:46.175] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[20Aug2025 00:11:46.176] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[20Aug2025 00:11:46.176] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[20Aug2025 00:11:46.530] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7a50759c]
-[20Aug2025 00:11:46.536] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[20Aug2025 00:11:46.592] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[20Aug2025 00:11:46.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.35 Target: 1.20.1-2.5.36
-[20Aug2025 00:11:46.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Aug2025 00:11:47.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[20Aug2025 00:11:47.720] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Aug2025 00:11:47.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lucky:lucky_block Expected: 1003 Got: 1452
-[20Aug2025 00:11:47.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lucky:lucky_block Expected: 1255 Got: 1729
-[20Aug2025 00:11:47.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lucky:lucky_sword Expected: 1256 Got: 1730
-[20Aug2025 00:11:47.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lucky:lucky_bow Expected: 1257 Got: 1731
-[20Aug2025 00:11:47.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lucky:lucky_potion Expected: 1258 Got: 1732
-[20Aug2025 00:11:47.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: lucky:lucky_projectile Expected: 124 Got: 130
-[20Aug2025 00:11:47.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: lucky:lucky_potion Expected: 125 Got: 131
-[20Aug2025 00:11:47.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: lucky:delayed_drop Expected: 126 Got: 132
-[20Aug2025 00:11:48.542] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
-[20Aug2025 00:11:48.542] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
-[20Aug2025 00:11:50.130] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[20Aug2025 00:11:50.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[20Aug2025 00:11:50.977] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1977 advancements
-[20Aug2025 00:11:51.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Aug2025 00:11:51.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Aug2025 00:11:51.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Aug2025 00:11:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Aug2025 00:11:51.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Aug2025 00:11:51.805] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Aug2025 00:11:51.881] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Aug2025 00:11:51.882] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Aug2025 00:11:51.882] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Aug2025 00:11:51.882] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Aug2025 00:11:51.937] [Server thread/INFO] [Framework/]: Loading server configs...
-[20Aug2025 00:11:51.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Aug2025 00:11:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Aug2025 00:11:56.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:56.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:56.432] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:56.458] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:56.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:57.321] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:57.884] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:58.404] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:58.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Aug2025 00:11:59.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[20Aug2025 00:11:59.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[20Aug2025 00:12:00.318] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[20Aug2025 00:12:00.509] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5692 ms
-[20Aug2025 00:12:00.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.613s)! For help, type "help"
-[20Aug2025 00:12:00.527] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Aug2025 00:12:01.858] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20Aug2025 00:12:01.868] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'few-assist.gl.at.ply.gg:5138'
-[20Aug2025 00:12:01.868] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[20Aug2025 00:12:31.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.228.117.83:43305] logged in with entity id 269 at (-89.20839454243243, 96.73907861744631, -94.88104647441429)
-[20Aug2025 00:12:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
-[20Aug2025 00:12:33.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Agus2000 (18)
-[20Aug2025 00:12:33.834] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Agus2000
-[20Aug2025 00:12:35.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c9beb890-2671-3838-a808-2f68a93b3ca2
-[20Aug2025 00:12:36.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
-[20Aug2025 00:12:36.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
-[20Aug2025 00:15:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set the weather to clear]
-[20Aug2025 00:27:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[20Aug2025 00:27:29.699] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=lucky:lucky_sword;type=item,ID=lucky:lucky_bow;type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15);type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag=#randFireworksRocket)),amount=20,posOffset=#circleOffset(0,2))@luck=2
-[20Aug2025 00:27:33.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[20Aug2025 00:27:38.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[20Aug2025 00:27:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[20Aug2025 00:27:41.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[20Aug2025 00:27:43.594] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=carrot,amount=#rand(8,16);ID=golden_carrot,amount=#rand(4,8));group(ID=potato,amount=#rand(8,16);ID=baked_potato,amount=#rand(4,8);ID=poisonous_potato,amount=#rand(2,4));group(ID=pumpkin_pie,amount=#rand(6,12)))@luck=1
-[20Aug2025 00:27:45.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[20Aug2025 00:27:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[20Aug2025 00:27:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[20Aug2025 00:27:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[20Aug2025 00:27:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[20Aug2025 00:35:36.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: The difficulty has been set to Peaceful]
-[20Aug2025 00:47:17.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[20Aug2025 00:47:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[20Aug2025 00:57:45.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gave 1 [Air] to Agus2000]
-[20Aug2025 00:57:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gave 1 [Structure Void] to Agus2000]
-[20Aug2025 01:06:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Custom bossbar [Minutos: 1   Segundos: 35   Ticks: 0] is now hidden]
-[20Aug2025 01:17:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gave 1 [Structure Void] to Agus2000]
-[20Aug2025 01:19:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Gave 1 [Structure Void] to Agus2000]
-[20Aug2025 01:26:51.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[20Aug2025 01:26:51.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[20Aug2025 01:26:51.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Agus2000
-[20Aug2025 01:26:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Aug2025 01:26:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Aug2025 01:26:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Aug2025 01:26:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Aug2025 01:26:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Aug2025 01:26:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Aug2025 01:26:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Aug2025 01:27:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Aug2025 01:27:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Aug2025 01:27:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Aug2025 01:27:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20Aug2025 01:27:00.016] [Server thread/INFO] [Framework/]: Unloading server configs...
-[20Aug2025 01:27:00.018] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[20Aug2025 01:27:00.019] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Aug2025 23:25:41.766] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Aug2025 23:25:41.770] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[20Aug2025 23:25:43.170] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Aug2025 23:25:43.310] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Aug2025 23:25:43.798] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Aug2025 23:25:43.800] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Aug2025 23:25:43.802] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Aug2025 23:25:43.803] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Aug2025 23:25:44.024] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[20Aug2025 23:25:46.045] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Aug2025 23:25:46.052] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Aug2025 23:25:52.179] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zzc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20Aug2025 23:25:53.463] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Aug2025 23:25:53.467] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Aug2025 23:25:54.715] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20Aug2025 23:25:54.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20Aug2025 23:25:54.774] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20Aug2025 23:25:54.780] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[20Aug2025 23:25:54.780] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20Aug2025 23:25:54.780] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[20Aug2025 23:25:55.175] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@206eed70]
+[20Aug2025 23:25:55.180] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[20Aug2025 23:25:55.235] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[20Aug2025 23:25:55.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.35 Target: 1.20.1-2.5.36
+[20Aug2025 23:25:55.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Aug2025 23:25:55.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[20Aug2025 23:25:57.076] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Aug2025 23:25:57.893] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
+[20Aug2025 23:25:57.893] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
+[20Aug2025 23:25:59.583] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[20Aug2025 23:26:00.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[20Aug2025 23:26:00.312] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1977 advancements
+[20Aug2025 23:26:01.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Aug2025 23:26:01.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Aug2025 23:26:01.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Aug2025 23:26:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Aug2025 23:26:01.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Aug2025 23:26:01.152] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Aug2025 23:26:01.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Aug2025 23:26:01.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Aug2025 23:26:01.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Aug2025 23:26:01.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Aug2025 23:26:01.294] [Server thread/INFO] [Framework/]: Loading server configs...
+[20Aug2025 23:26:01.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Aug2025 23:26:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Aug2025 23:26:05.360] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:05.400] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:05.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:05.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:06.106] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:06.620] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:07.108] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:07.607] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Aug2025 23:26:08.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[20Aug2025 23:26:08.609] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[20Aug2025 23:26:09.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[20Aug2025 23:26:09.623] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5518 ms
+[20Aug2025 23:26:09.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.368s)! For help, type "help"
+[20Aug2025 23:26:09.640] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Aug2025 23:26:10.939] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20Aug2025 23:26:10.951] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'few-assist.gl.at.ply.gg:5138'
+[20Aug2025 23:26:10.952] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[20Aug2025 23:26:28.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.228.117.83:35217] logged in with entity id 169 at (-74.66351985341353, 91.11263363044118, -234.00046068892934)
+[20Aug2025 23:26:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[20Aug2025 23:26:30.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Agus2000 (18)
+[20Aug2025 23:26:30.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Agus2000
+[20Aug2025 23:26:31.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c9beb890-2671-3838-a808-2f68a93b3ca2
+[20Aug2025 23:26:32.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
+[20Aug2025 23:26:32.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
+[20Aug2025 23:26:33.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genero100[/127.190.111.32:36831] logged in with entity id 201 at (-83.38213540408343, 97.53907735765873, -96.01351199548883)
+[20Aug2025 23:26:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 joined the game
+[20Aug2025 23:26:35.396] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of genero100 (18)
+[20Aug2025 23:26:35.397] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to genero100
+[20Aug2025 23:26:36.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b3165d07-a764-3451-bb2e-77576955030a
+[20Aug2025 23:26:37.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b3165d07-a764-3451-bb2e-77576955030a
+[20Aug2025 23:26:37.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player genero100 (b3165d07-a764-3451-bb2e-77576955030a) successfully connected to voice chat
+[20Aug2025 23:28:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mmmm
+[20Aug2025 23:28:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> puede ser
+[20Aug2025 23:28:49.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ooo
+[20Aug2025 23:28:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pues que asi se quede no?
+[20Aug2025 23:32:43.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> quee
