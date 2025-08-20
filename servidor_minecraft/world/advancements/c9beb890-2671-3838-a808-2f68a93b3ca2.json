@@ -3171,6 +3171,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-20 00:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-20 00:14:44 +0000"
@@ -3204,6 +3210,12 @@
   "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
     "criteria": {
       "has_azalea_leaves": "2025-08-20 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-20 00:51:58 +0000"
     },
     "done": true
   },
@@ -3303,6 +3315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-20 00:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-08-20 00:39:55 +0000"
@@ -3348,6 +3366,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_yellow_dye": "2025-08-20 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-08-20 00:51:58 +0000"
     },
     "done": true
   },
