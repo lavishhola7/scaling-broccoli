@@ -77,3 +77,15 @@
 [20Aug2025 00:12:36.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
 [20Aug2025 00:12:36.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
 [20Aug2025 00:15:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set the weather to clear]
+[20Aug2025 00:27:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[20Aug2025 00:27:29.699] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=lucky:lucky_sword;type=item,ID=lucky:lucky_bow;type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15);type=entity,ID=firework_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=firework_rocket,Count=1,tag=#randFireworksRocket)),amount=20,posOffset=#circleOffset(0,2))@luck=2
+[20Aug2025 00:27:33.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[20Aug2025 00:27:38.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[20Aug2025 00:27:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:41.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[20Aug2025 00:27:43.594] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=carrot,amount=#rand(8,16);ID=golden_carrot,amount=#rand(4,8));group(ID=potato,amount=#rand(8,16);ID=baked_potato,amount=#rand(4,8);ID=poisonous_potato,amount=#rand(2,4));group(ID=pumpkin_pie,amount=#rand(6,12)))@luck=1
+[20Aug2025 00:27:45.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[20Aug2025 00:27:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[20Aug2025 00:27:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[20Aug2025 00:27:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
