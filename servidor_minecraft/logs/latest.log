@@ -1,565 +1,98 @@
-[21Aug2025 00:00:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Made Weckstone a server operator]
-[21Aug2025 00:00:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Creative Mode]
-[21Aug2025 00:08:59.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 1 [Command Block] to genero100]
-[21Aug2025 00:09:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> te parece bien que aca un comand bloq que lleve al circulo?
-[21Aug2025 00:09:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vale
-[21Aug2025 00:11:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como era para copear cords
-[21Aug2025 00:11:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> habia una forma
-[21Aug2025 00:12:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> f3 +c
-[21Aug2025 00:13:12.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> listo el comando
-[21Aug2025 00:14:38.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me voi a meter optifine que euiro usar el zoom
-[21Aug2025 00:14:40.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genero100 lost connection: Disconnected
-[21Aug2025 00:14:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 left the game
-[21Aug2025 00:14:40.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client genero100
-[21Aug2025 00:18:16.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 00:18:18.028] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=tnt,amount=8@luck=1
-[21Aug2025 00:18:19.370] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=cake@luck=0
-[21Aug2025 00:18:20.120] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
-[21Aug2025 00:18:20.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Ice Bucket Challenge]
-[21Aug2025 00:18:20.974] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=splash_potion,NBTTag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name=#jsonStr(text="Evil Potion",color=dard_red,bold=true)))@luck=1
-[21Aug2025 00:18:21.571] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=beacon@luck=2
-[21Aug2025 00:18:22.472] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=dropper,amount=8@luck=0
-[21Aug2025 00:18:23.123] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
-[21Aug2025 00:18:23.720] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=baked_potato,amount=64,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=poisonous_potato,amount=32,posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=1
-[21Aug2025 00:18:27.204] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=message,ID="Your wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,posOffset=#circleOffset(2);ID=baked_potato,amount=64,posY=#bPosY+10,posOffset=#circleOffset(2);ID=poisonous_potato,amount=32,posY=#bPosY+10,posOffset=#circleOffset(2))
-[21Aug2025 00:18:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Bring Home the Beacon]
-[21Aug2025 00:18:30.372] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=rabbit,NBTTag=(RabbitType=99))@luck=-1
-[21Aug2025 00:18:31.703] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=tnt,NBTTag=(Fuse=50b,Motion='#'randLaunchMotion),posY='#'bPosY+7,amount=20)"]))@luck=-2
-[21Aug2025 00:18:37.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/13795, l='ServerLevel[world]', x=-24.22, y=72.00, z=-73.92] died: The Killer Bunny was killed by Agus2000 using magic
-[21Aug2025 00:18:42.955] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=message,ID="Your death wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=tnt,NBTTag=(Fuse=50b,Motion=#randLaunchMotion),posY=#bPosY+7,amount=20)
-[21Aug2025 00:18:49.920] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
-[21Aug2025 00:18:50.519] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=fishing_rod;ID=#randList(cod,pufferfish,salmon,tropical_fish),amount=#rand(10,20))@luck=1
-[21Aug2025 00:18:51.120] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=cake@luck=0
-[21Aug2025 00:18:51.718] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=cage,pos=#pPos,rotation=#pDirect;type=fill,ID=air,size=(1,70,1),pos=#pPos;type=fill,ID=anvil,size=(1,2,1),pos=(#pPosX,#pPosY+70,#pPosZ))@luck=-2
-[21Aug2025 00:19:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:19:05.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 00:19:07.969] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_helmet,NBTTag=(Enchantments=#luckyHelmetEnchantments,display=(Name=#jsonStr(text="Hero's Helmet",color=blue,bold=true)));ID=diamond_chestplate,NBTTag=(Enchantments=#luckyChestplateEnchantments,display=(Name=#jsonStr(text="Hero's Chestplate",color=blue,bold=true)));ID=diamond_leggings,NBTTag=(Enchantments=#luckyLeggingsEnchantments,display=(Name=#jsonStr(text="Hero's Leggings",color=blue,bold=true)));ID=diamond_boots,NBTTag=(Enchantments=#luckyBootsEnchantments,display=(Name=#jsonStr(text="Hero's Boots",color=blue,bold=true))))@luck=2
-[21Aug2025 00:19:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:19:17.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 00:19:18.419] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=creeper;type=entity,ID=lightning_bolt)@luck=-2
-[21Aug2025 00:19:22.869] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=end_portal_frame,amount=#rand(2,6)@luck=2
-[21Aug2025 00:19:23.468] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=hay_block,amount=8@luck=0
-[21Aug2025 00:19:24.419] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=bow,NBTTag=(Enchantments=#luckyBowEnchantments,display=(Name=#jsonStr(text="Hero's Bow",color=blue,bold=true)))@luck=2
-[21Aug2025 00:19:25.018] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=structure,ID=giant_lucky_block_bad,rotation=#pDirect@luck=-2
-[21Aug2025 00:19:32.568] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(group(ID=giant_block_break_stage_1;ID=giant_block_break_stage_2,delay=1;ID=giant_block_break_stage_3,delay=2;ID=giant_block_break_stage_4,delay=3;ID=giant_block_break_stage_5,delay=4),type=structure,pos=[-49.5,72.0,-77.5],rotation=2;type=fill,ID=air,pos=[-46,72,-71],pos2=[-53,79,-78],delay=5;type=entity,ID=tnt,pos=[-50,76,-75],NBTTag=(Fuse=50b,Motion=#randLaunchMotion),amount=15,delay=5)
-[21Aug2025 00:19:44.568] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=lapis_block));type=particle,ID=splash,size=(1,2,1),particleAmount=1000;type=sound,ID=entity.player.swim)@luck=0
-[21Aug2025 00:19:46.669] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=gold_block));type=particle,ID=flame,size=(1,2,1),particleAmount=500;type=sound,ID=entity.ghast.shoot)@luck=0
-[21Aug2025 00:19:47.417] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(ID=crossbow,NBTTag=(Enchantments=#luckyCrossbowEnchantments,display=(Name=#jsonStr(text="Hero's Crossbow",color=blue,bold=true)));ID=trident,NBTTag=(Enchantments=#luckyTridentEnchantments,display=(Name=#jsonStr(text="Hero's Trident",color=blue,bold=true))))@luck=2
-[21Aug2025 00:19:49.617] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=item,ID=lucky:lucky_sword@chance=1.5@luck=2
-[21Aug2025 00:19:51.017] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=creeper;type=entity,ID=lightning_bolt)@luck=-2
-[21Aug2025 00:19:51.617] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_helmet;ID=diamond_chestplate;ID=diamond_leggings;ID=diamond_boots;ID=diamond_horse_armor)@luck=2
-[21Aug2025 00:20:04.017] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=iron_block));type=particle,ID=large_smoke,size=(1,2,1),particleAmount=500;type=sound,ID=block.fire.extinguish)@luck=0
-[21Aug2025 00:20:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:20:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 00:20:13.316] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=wooden_sword;ID=wooden_shovel;ID=wooden_pickaxe;ID=wooden_axe;ID=wooden_hoe)@luck=0
-[21Aug2025 00:20:15.467] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=pumpkin,amount=#rand(8,16);ID=jack_o_lantern,amount=#rand(8,16))@luck=0
-[21Aug2025 00:20:16.617] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(type=entity,ID=slime,NBTTag=(Size=10);type=entity,ID=magma_cube,NBTTag=(Size=10))@luck=-2
-[21Aug2025 00:20:19.117] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=prismarine,amount=#rand(4,8);ID=prismarine,damage=1,amount=#rand(4,8);ID=prismarine,damage=2,amount=#rand(4,8);ID=sea_lantern,amount=#rand(4,8);ID=prismarine_shard,amount=#rand(15,30);ID=prismarine_crystals,amount=#rand(10,20);type=particle,ID=splashpotion,potion="invisibility")@luck=1
-[21Aug2025 00:20:20.068] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(1,2):(ID=diamond_shovel,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Shovel",color=blue,bold=true)));ID=diamond_pickaxe,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Pickaxe",color=blue,bold=true)));ID=diamond_axe,NBTTag=(Enchantments=#luckyAxeEnchantments,display=(Name=#jsonStr(text="Hero's Axe",color=blue,bold=true)));ID=diamond_hoe,NBTTag=(Enchantments=#luckyToolEnchantments,display=(Name=#jsonStr(text="Hero's Hoe",color=blue,bold=true)));ID=fishing_rod,NBTTag=(Enchantments=#luckyFishingRodEnchantments,display=(Name=#jsonStr(text="Hero's Fishing Rod",color=blue,bold=true))))@luck=2
-[21Aug2025 00:20:20.853] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)@luck=0
-[21Aug2025 00:20:21.722] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=llama,amount=8,posOffset=#circleOffset(4),NBTTag=(CustomName=#jsonStr(text=#randList(Llaura,Llauretta,Llavender,Llinda,Llisa,Llouise,Llucy,Llydia),color=dark_purple,bold=true),Variant=#rand(0,3),CustomNameVisible=true)@luck=0
-[21Aug2025 00:20:22.520] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=fishing_rod;ID=#randList(cod,pufferfish,salmon,tropical_fish),amount=#rand(10,20))@luck=1
-[21Aug2025 00:20:23.268] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=lapis_block));type=particle,ID=splash,size=(1,2,1),particleAmount=1000;type=sound,ID=entity.player.swim)@luck=0
-[21Aug2025 00:20:24.466] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=armor_stand,NBTTag=(Small=true,NoBasePlate=true,ShowArms=true,HandItems=[(id=stone_pickaxe,Count=1)],ArmorItems=[(id=leather_boots,Count=1,tag=(display=(color=#randColor))),(id=leather_leggings,Count=1,tag=(display=(color=#randColor))),(id=leather_chestplate,Count=1,tag=(display=(color=#randColor))),(id=player_head,Count=1,tag=(SkullOwner=#pName))],Rotation=[#pYaw+180f,0f],CustomName=#jsonStr(text="Baby #pName"),CustomNameVisible=true)@luck=0
-[21Aug2025 00:20:26.367] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=witch;type=entity,ID=bat,posY=#bPosY+#rand(0,2),posOffset=#circleOffset(0,1),amount=64)@luck=-1
-[21Aug2025 00:20:28.422] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=wooden_sword;ID=wooden_shovel;ID=wooden_pickaxe;ID=wooden_axe;ID=wooden_hoe)@luck=0
-[21Aug2025 00:20:29.423] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(potion,splash_potion),NBTTag=(Potion=#randPotion),amount=#rand(4,8)@luck=1
-[21Aug2025 00:20:30.022] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=splash_potion,NBTTag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name=#jsonStr(text="Evil Potion",color=dard_red,bold=true)))@luck=1
-[21Aug2025 00:20:31.020] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=cat,amount=#rand(5,10),posOffset=#circleOffset(3),NBTTag=(CatType=#rand(0,10),CollarColor=#rand(0,15),Owner=#pUUIDArray,Sitting=true);type=particle,ID="heart",size=(2,0,2),particleAmount=20)@luck=1
-[21Aug2025 00:20:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:20:45.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genero100[/127.190.111.32:51395] logged in with entity id 14624 at (-142.12144751218673, 104.49325314100992, -253.59821549582549)
-[21Aug2025 00:20:45.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 joined the game
-[21Aug2025 00:20:48.166] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of genero100 (18)
-[21Aug2025 00:20:48.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to genero100
-[21Aug2025 00:20:49.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b3165d07-a764-3451-bb2e-77576955030a
-[21Aug2025 00:20:50.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b3165d07-a764-3451-bb2e-77576955030a
-[21Aug2025 00:20:50.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player genero100 (b3165d07-a764-3451-bb2e-77576955030a) successfully connected to voice chat
-[21Aug2025 00:20:58.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genero100 moved too quickly! -8.813711225521757,5.0362557326947694,0.429000638513628
-[21Aug2025 00:20:59.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genero100 moved too quickly! 8.508149472512315,3.264540863161187,-5.328442106032924
-[21Aug2025 00:21:28.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo hice un vergo de parkour
-[21Aug2025 00:21:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae
-[21Aug2025 00:21:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> de 2
-[21Aug2025 00:22:15.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> cuantos querias
-[21Aug2025 00:22:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> de caminos
-[21Aug2025 00:22:54.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> 7
-[21Aug2025 00:23:43.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si lo conte
-[21Aug2025 00:23:54.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
-[21Aug2025 00:25:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como se llamaba el bloque de luz
-[21Aug2025 00:25:44.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 1 [Light] to genero100]
-[21Aug2025 00:27:07.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a xd sierto
-[21Aug2025 00:28:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> van a poder usar bloques?
-[21Aug2025 00:28:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ok
-[21Aug2025 00:29:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ay que quitar que se rompan los bloques con tnt
-[21Aug2025 00:29:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> bueno xd
-[21Aug2025 00:31:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 has made the advancement [Stone Age]
-[21Aug2025 00:31:24.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 00:31:27.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 00:31:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:31:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 00:31:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:32:15.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 00:32:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:32:24.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 00:32:25.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:33:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vale
-[21Aug2025 00:33:36.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> 10?
-[21Aug2025 00:33:55.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> unos 60
-[21Aug2025 00:34:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si
-[21Aug2025 00:35:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pues si
-[21Aug2025 00:36:55.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y si haces
-[21Aug2025 00:37:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> bueno pera
-[21Aug2025 00:37:13.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hacemos como 150 pa abajo
-[21Aug2025 00:37:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y
-[21Aug2025 00:37:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> en la caida ponemos 15 %bloques y 5% luckys?
-[21Aug2025 00:38:08.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mazo
-[21Aug2025 00:38:20.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> no
-[21Aug2025 00:38:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aver has como te dijo
-[21Aug2025 00:38:38.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 00:39:18.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> se paso
-[21Aug2025 00:39:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> estaba mas alto que el que sube
-[21Aug2025 00:39:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ahora esta en la mitad
-[21Aug2025 00:39:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> tew pASASTE
-[21Aug2025 00:40:09.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> NO OSEA
-[21Aug2025 00:40:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya estas abajo
-[21Aug2025 00:40:17.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
-[21Aug2025 00:40:27.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como a 8
-[21Aug2025 00:40:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a 3
-[21Aug2025 00:40:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
-[21Aug2025 00:40:54.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si
-[21Aug2025 00:41:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 00:41:25.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Sky's the Limit]
-[21Aug2025 00:41:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ahora
-[21Aug2025 00:41:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hace lo mismo pero con 15% bloques y 5% lukys
-[21Aug2025 00:42:12.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pero con el resto de aire
-[21Aug2025 00:43:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> naa
-[21Aug2025 00:44:01.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> fua
-[21Aug2025 00:44:07.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> bancas?
-[21Aug2025 00:44:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ponele en lugar de aire light dea
-[21Aug2025 00:44:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> fua
-[21Aug2025 00:46:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sis
-[21Aug2025 00:47:09.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nose
-[21Aug2025 00:47:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> supongo
-[21Aug2025 00:47:29.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> o hace lo mismo y que busquen la subida
-[21Aug2025 00:48:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> god
-[21Aug2025 00:48:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> parece que no podran subir
-[21Aug2025 00:49:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nadie va a querer subir man
-[21Aug2025 00:49:50.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ooo va
-[21Aug2025 00:50:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> laberinto creo
-[21Aug2025 00:50:18.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> 200?
-[21Aug2025 00:50:27.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nose
-[21Aug2025 00:50:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> de 120
-[21Aug2025 00:51:43.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Teleported Agus2000 to -207.500000, 163.000000, -297.500000]
-[21Aug2025 00:51:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to genero100]
-[21Aug2025 00:52:04.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Agus2000]
-[21Aug2025 00:52:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> alaverga
-[21Aug2025 00:52:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pero de 50
-[21Aug2025 00:52:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> de ancjho
-[21Aug2025 00:53:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 00:53:32.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> los lukis van a romper todo alaverga
-[21Aug2025 00:53:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> porfa
-[21Aug2025 00:54:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eu en el de bajada pone menos lukis
-[21Aug2025 00:54:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> see
-[21Aug2025 00:54:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> bro que haces
-[21Aug2025 00:54:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> oya
-[21Aug2025 00:54:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si pone nadamas 50 xddd
-[21Aug2025 00:54:53.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Weckstone]
-[21Aug2025 00:55:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eu god
-[21Aug2025 00:55:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Agus2000]
-[21Aug2025 00:55:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to Agus2000]
-[21Aug2025 00:55:33.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> alamierda
-[21Aug2025 00:55:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me mato
-[21Aug2025 00:56:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ./stop?
-[21Aug2025 00:56:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> okas
-[21Aug2025 00:56:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo lo aria mas chico sajsajasjsa
-[21Aug2025 00:56:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo pense que iba a hacer 15 de ancho no 15 de cada lado
-[21Aug2025 00:57:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que haces
-[21Aug2025 00:57:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> son 120 de cada lado
-[21Aug2025 00:57:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
-[21Aug2025 01:01:36.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya vengo
-[21Aug2025 01:02:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> volvi
-[21Aug2025 01:02:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hace drive
-[21Aug2025 01:02:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> asterisco se cae asterisco
-[21Aug2025 01:06:30.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya vengo
-[21Aug2025 01:10:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> win
-[21Aug2025 01:11:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae
-[21Aug2025 01:11:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> chupame la pi
-[21Aug2025 01:11:30.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dea
-[21Aug2025 01:11:34.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> SI
-[21Aug2025 01:11:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eeeeee que decias
-[21Aug2025 01:11:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> podemos hacer algo
-[21Aug2025 01:12:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pa guiarnos
-[21Aug2025 01:14:08.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> la concha de mi madre no le se al puto mod
-[21Aug2025 01:14:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> andaba haciendo comandos pero no recuerdo
-[21Aug2025 01:14:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si le sabia
-[21Aug2025 01:14:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja pero perame
-[21Aug2025 01:16:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me cago en la puta
-[21Aug2025 01:17:46.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> daaaaaaaaaaaaaa
-[21Aug2025 01:17:55.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> Lo hacemos tipo hide and seek a los squid games
-[21Aug2025 01:17:55.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> temativca no hay creo
-[21Aug2025 01:18:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> el laberinto
-[21Aug2025 01:18:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> ????
-[21Aug2025 01:18:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> esq quiero poner una base pero nose como usar los porcentajes de mierda
-[21Aug2025 01:19:07.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Teleported genero100 to Weckstone]
-[21Aug2025 01:19:12.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> pero esta base no?
-[21Aug2025 01:19:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 01:19:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 01:19:58.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set the weather to clear]
-[21Aug2025 01:20:06.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> agus como se usaban los porcentajes de mierda
-[21Aug2025 01:20:26.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> amigo me dio risa la risa no el ban
-[21Aug2025 01:20:39.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> esq quiero hacer una base random
-[21Aug2025 01:20:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aaaaaaaaaaaaaaaaaaaaaaaaaaa
-[21Aug2025 01:21:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> conrazon la putamadre
-[21Aug2025 01:21:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 50%deepslate,50%stone
-[21Aug2025 01:21:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> deepstale,stone
-[21Aug2025 01:21:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: The difficulty has been set to Peaceful]
-[21Aug2025 01:22:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mira win
-[21Aug2025 01:22:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> asi podemos usarlo para guiarnos
-[21Aug2025 01:24:00.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> es para hacerlo mas random el laberinto
-[21Aug2025 01:24:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> guiarnos con esos bloques random
-[21Aug2025 01:24:50.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> naa jodeme win
-[21Aug2025 01:24:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a weno
-[21Aug2025 01:24:59.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajasjsajasj
-[21Aug2025 01:25:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> queeeeeee
-[21Aug2025 01:25:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> queeeeeee
-[21Aug2025 01:25:30.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ay
-[21Aug2025 01:25:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ups
-[21Aug2025 01:25:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> lito
-[21Aug2025 01:25:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jsjasjsajsajsajas
-[21Aug2025 01:26:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ujsajsajsajsasa
-[21Aug2025 01:26:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> deepstale,stone
-[21Aug2025 01:26:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae que hice
-[21Aug2025 01:26:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hacemos con los colores de algo
-[21Aug2025 01:27:13.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> tu decias la pintura de la noche estrellada win?
-[21Aug2025 01:27:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> chance aca ay un qr
-[21Aug2025 01:27:41.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yano
-[21Aug2025 01:28:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hacelo solo de un bloque y luego le das textura
-[21Aug2025 01:28:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vale
-[21Aug2025 01:29:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> huh
-[21Aug2025 01:29:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jsajsajasjas
-[21Aug2025 01:31:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> asasjsajsajsajsajasjsajsa
-[21Aug2025 01:31:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> la putamadre agus
-[21Aug2025 01:31:22.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> queeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-[21Aug2025 01:32:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> putamadre agus
-[21Aug2025 01:32:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> lo estoi moviendo
-[21Aug2025 01:33:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jsajasjasjas
-[21Aug2025 01:33:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajasjsajsjajasa
-[21Aug2025 01:33:25.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae y win
-[21Aug2025 01:33:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a justo llega
-[21Aug2025 01:33:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajjasasjsajsjsjajasas
-[21Aug2025 01:34:28.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me imagino adentro del laberinto y ver 4 salas bacias
-[21Aug2025 01:34:39.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 01:34:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ni idea
-[21Aug2025 01:35:17.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que lo cambies todo
-[21Aug2025 01:36:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> un naranja no?
-[21Aug2025 01:37:14.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aaa se me olvidaba ese mod
-[21Aug2025 01:37:50.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.187384648632346,-3.938724596574872,-0.7158913869438948
-[21Aug2025 01:37:53.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 8.923295129450437,0.0,5.145888902624961
-[21Aug2025 01:38:11.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.50080736758106,4.473874364191971,0.005188369987251917
-[21Aug2025 01:38:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> esq quiere hacer la noche estrellada
-[21Aug2025 01:38:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> o como se llamaba
-[21Aug2025 01:38:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ok
-[21Aug2025 01:38:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si quieres donde va el sol aumento yo la cantidad de amarillo
-[21Aug2025 01:39:02.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> lit
-[21Aug2025 01:39:04.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> naaaa
-[21Aug2025 01:39:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone barra replace air 1%luquis
-[21Aug2025 01:39:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> solo la parte abajo
-[21Aug2025 01:40:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae no puse atencion
-[21Aug2025 01:40:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que
-[21Aug2025 01:40:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mmmmm
-[21Aug2025 01:40:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> va
-[21Aug2025 01:40:54.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo jalo pero como voi a estar en la uni tendre mucho menos tiempo
-[21Aug2025 01:41:11.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 10.070526929097866,0.2538907259487644,0.13848819372395837
-[21Aug2025 01:41:17.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> na
-[21Aug2025 01:41:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone menos amarillo
-[21Aug2025 01:41:46.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.428812539514666,0.0,-3.438126587387444
-[21Aug2025 01:42:36.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> wtf
-[21Aug2025 01:42:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sabe portuges
-[21Aug2025 01:42:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eeee
-[21Aug2025 01:43:05.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.87791361573013,0.0,-3.061459980732991
-[21Aug2025 01:43:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xdd
-[21Aug2025 01:43:20.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xddddddddddddddddd
-[21Aug2025 01:43:30.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.096051000815805,4.865691181483157,1.4503082128434812
-[21Aug2025 01:44:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xxd
-[21Aug2025 01:44:37.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> no recuerdo todo
-[21Aug2025 01:44:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me quiero ver donde sale el viejo otra vez
-[21Aug2025 01:44:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> el omaigaddd
-[21Aug2025 01:45:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> win lo esta haciendo espacio de 2
-[21Aug2025 01:45:34.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 4.7034273400328175,4.496651856198298,8.117008941854579
-[21Aug2025 01:45:38.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 01:45:42.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> lit
-[21Aug2025 01:45:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya habias dicho
-[21Aug2025 01:46:48.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> queeeee
-[21Aug2025 01:47:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xdddddddddddd
-[21Aug2025 01:47:46.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me encanta convivir contigo agus me da mucha risa
-[21Aug2025 01:48:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que malo eres win
-[21Aug2025 01:48:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 01:48:40.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sjsajasjasjas
-[21Aug2025 01:48:48.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pobre mic
-[21Aug2025 01:48:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> asjsajsajsajsa
-[21Aug2025 01:49:00.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> reee naziiiiiiii
-[21Aug2025 01:49:11.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajhasjsajasjsajsa
-[21Aug2025 01:49:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> proba hacer todo blanco negro y rojo aver que sale
-[21Aug2025 01:49:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> de broma
-[21Aug2025 01:49:54.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> para ver que saleeeeeee
-[21Aug2025 01:49:58.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jsajajsa
-[21Aug2025 01:50:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajsjajasjasjas
-[21Aug2025 01:51:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ayno
-[21Aug2025 01:51:17.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajsajasjasjas
-[21Aug2025 01:51:22.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> tremenda poronga
-[21Aug2025 01:51:36.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> toda gris te refris?
-[21Aug2025 01:52:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> recordame para que eran las salas?
-[21Aug2025 01:52:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sjsajaskasksakasas
-[21Aug2025 01:52:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> heell naaa
-[21Aug2025 01:53:07.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> amigo que necesidad?
-[21Aug2025 01:53:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pq tiene que ser nazi
-[21Aug2025 01:53:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone mas referencias
-[21Aug2025 01:53:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajasjsajsajsa
-[21Aug2025 01:53:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone uno comunista por lomenos
-[21Aug2025 01:54:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> re facil
-[21Aug2025 01:54:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> deja busco
-[21Aug2025 01:55:30.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que
-[21Aug2025 01:55:41.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eso se hace con world edit win
-[21Aug2025 01:56:03.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sino agus?
-[21Aug2025 01:56:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> copea la parte de abajo y la pegas arriba
-[21Aug2025 01:56:37.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> quito las puertas primero no?
-[21Aug2025 01:56:54.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ee si mejhor
-[21Aug2025 01:57:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> uy las puertas xd
-[21Aug2025 01:57:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xddd
-[21Aug2025 01:58:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mas alto no?
-[21Aug2025 01:58:19.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> agus
-[21Aug2025 01:58:21.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 01:58:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> copea pega y remplasas no?
-[21Aug2025 01:58:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pero con lo de abajo
-[21Aug2025 01:59:14.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nadamas
-[21Aug2025 02:00:48.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ae que?
-[21Aug2025 02:01:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dios meo
-[21Aug2025 02:01:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> naa te corto la pija
-[21Aug2025 02:01:29.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> te la corto en cachos
-[21Aug2025 02:01:51.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> naaaaaaaaaaaaaaaaaaa
-[21Aug2025 02:02:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aca hay otra pija jsajsajas
-[21Aug2025 02:02:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> amigo
-[21Aug2025 02:02:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xddddddddddddddddd
-[21Aug2025 02:04:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yasta
-[21Aug2025 02:04:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> deja de desir esa mierda
-[21Aug2025 02:04:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> god
-[21Aug2025 02:04:41.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> oie agus
-[21Aug2025 02:04:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nunca van a construir?
-[21Aug2025 02:05:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> esta diseñado para que no construyan
-[21Aug2025 02:05:12.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> todo
-[21Aug2025 02:05:22.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mmm
-[21Aug2025 02:05:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya habias dicho que el primero no
-[21Aug2025 02:05:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sjasjasj
-[21Aug2025 02:06:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> cuanto a que se hartan de abrir lukis
-[21Aug2025 02:07:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> remplaza aire por light
-[21Aug2025 02:07:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dios
-[21Aug2025 02:07:42.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> literal xd
-[21Aug2025 02:07:44.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ey si
-[21Aug2025 02:07:52.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -7.1145001117754845,4.681831478874614,-5.458738345751442
-[21Aug2025 02:07:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> win toma esto
-[21Aug2025 02:08:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> tiralo de vueltA
-[21Aug2025 02:08:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ponetelo en la mano
-[21Aug2025 02:08:13.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y entra
-[21Aug2025 02:08:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> tiralo de vuelta
-[21Aug2025 02:08:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gave 1 [Light] to genero100]
-[21Aug2025 02:08:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> QUE
-[21Aug2025 02:09:11.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> eso es lo que ilumina win
-[21Aug2025 02:09:33.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> agus entonces para que va ser los lukis si les vas a dar espada
-[21Aug2025 02:09:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> AVER juguemos una de practica
-[21Aug2025 02:09:40.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> agus nos busca
-[21Aug2025 02:09:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> si si
-[21Aug2025 02:09:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dou
-[21Aug2025 02:09:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> danos 20 segundos
-[21Aug2025 02:09:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que seas el
-[21Aug2025 02:09:55.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> el
-[21Aug2025 02:09:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Applied effect Glowing to Agus2000]
-[21Aug2025 02:09:56.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> ponemos en survival
-[21Aug2025 02:10:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> nah pero glowing no
-[21Aug2025 02:10:11.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Survival Mode]
-[21Aug2025 02:10:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Survival Mode]
-[21Aug2025 02:10:17.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> para
-[21Aug2025 02:10:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> conta
-[21Aug2025 02:10:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> hasta 20
-[21Aug2025 02:10:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 02:10:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 02:11:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone was slain by Agus2000 using [El Master-Arco]
-[21Aug2025 02:11:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> SE TPEO
-[21Aug2025 02:11:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to genero100]
-[21Aug2025 02:12:04.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone was slain by Agus2000 using [El Master-Arco]
-[21Aug2025 02:12:05.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved wrongly!
-[21Aug2025 02:12:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a wtf
-[21Aug2025 02:12:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was killed whilst fighting genero100
-[21Aug2025 02:12:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Killed Agus2000]
-[21Aug2025 02:12:21.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> el efecto xd
-[21Aug2025 02:12:29.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 02:12:30.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> tengo resistencia 50 xd
-[21Aug2025 02:12:31.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to genero100]
-[21Aug2025 02:12:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> se me olvido
-[21Aug2025 02:12:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> para
-[21Aug2025 02:12:50.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone was slain by genero100
-[21Aug2025 02:12:55.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> jeje
-[21Aug2025 02:13:06.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dios
-[21Aug2025 02:13:07.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Creative Mode]
-[21Aug2025 02:13:12.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -2.5054414551236377,2.0548503622851513,9.852513752382265
-[21Aug2025 02:13:14.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -10.486443920445929,0.0,1.7173883773581338
-[21Aug2025 02:13:22.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone que tu matas a uno cada 1 minuto
-[21Aug2025 02:13:30.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y que ellos tambien se maten
-[21Aug2025 02:13:31.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -9.840715141025207,1.6717529023238171,2.329457068068365
-[21Aug2025 02:13:35.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -10.617608439903307,0.0,0.6710436951807139
-[21Aug2025 02:13:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pues sonequipos
-[21Aug2025 02:13:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> tengo resistencia
-[21Aug2025 02:13:49.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 02:13:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by genero100
-[21Aug2025 02:13:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 02:13:58.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sjsajjsasjajsas
-[21Aug2025 02:14:05.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> pq se ven los nametags
-[21Aug2025 02:14:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> amigo es nuy facil con nametags
-[21Aug2025 02:14:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> nahhhh
-[21Aug2025 02:14:41.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
-[21Aug2025 02:15:01.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> nahhhhhhhhhs
-[21Aug2025 02:15:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> que tengan mas velocidad los seekers
-[21Aug2025 02:15:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> pero que no se vean nametagsw
-[21Aug2025 02:15:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
-[21Aug2025 02:15:24.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -2.1966786119515262,1.252203340253729,-9.967551744575928
-[21Aug2025 02:15:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
-[21Aug2025 02:15:34.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -2.1018319430675376,1.044812420399012,9.778369978970119
-[21Aug2025 02:15:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> no hay nada enserio?
-[21Aug2025 02:15:47.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
-[21Aug2025 02:15:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
-[21Aug2025 02:15:47.856] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Agus2000
-[21Aug2025 02:15:54.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.228.117.83:54327] logged in with entity id 28713 at (-102.98513039153718, 169.662230534776, -291.8020826861549)
-[21Aug2025 02:15:54.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
-[21Aug2025 02:15:54.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Agus2000 (18)
-[21Aug2025 02:15:54.697] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Agus2000
-[21Aug2025 02:15:56.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c9beb890-2671-3838-a808-2f68a93b3ca2
-[21Aug2025 02:15:57.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
-[21Aug2025 02:15:57.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
-[21Aug2025 02:15:58.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 2.4901128477581977,-9.550801356073393,1.9166162648097895
-[21Aug2025 02:16:04.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to genero100]
-[21Aug2025 02:16:07.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 0.0,-11.19886200217772,0.0
-[21Aug2025 02:16:12.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 7.864502492205418,4.125000163815685,5.97863899389796
-[21Aug2025 02:16:18.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 9.485695659376006,0.0,-3.6963399101745154
-[21Aug2025 02:16:18.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> con los teams?
-[21Aug2025 02:16:22.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 5.858608042010445,4.860008054019147,-6.7849867759455265
-[21Aug2025 02:16:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> ESO CON TEAMS
-[21Aug2025 02:16:28.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 1.0567317351029715,-10.280569787388941,-0.8447536694019959
-[21Aug2025 02:16:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pq win no tiene equipo
-[21Aug2025 02:16:50.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> yo te mate*
-[21Aug2025 02:16:51.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> metele un equipo diferente a win
-[21Aug2025 02:17:06.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -6.123147796292585,2.0782464825821023,8.180222541873036
-[21Aug2025 02:17:06.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> YO LOS Cazo ahora
-[21Aug2025 02:17:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Added Weckstone to team [AzuL]]
-[21Aug2025 02:17:13.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -2.466617426163694,-10.55896324820634,-0.6682230578023791
-[21Aug2025 02:17:16.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> denme espada
-[21Aug2025 02:17:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vro
-[21Aug2025 02:17:27.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me salio esto en gogle
-[21Aug2025 02:17:28.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Survival Mode]
-[21Aug2025 02:17:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ./team modify <nombre_del_equipo> nametagVisibility
-[21Aug2025 02:17:40.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> un barra clear effects a genero
-[21Aug2025 02:17:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Nametag visibility for team [rosa] is now "Hide for other teams"]
-[21Aug2025 02:17:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> godddddddddddd
-[21Aug2025 02:17:59.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -0.21289218659586595,-10.264561426314685,1.3392708316454218
-[21Aug2025 02:18:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> no
-[21Aug2025 02:18:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> se cayo
-[21Aug2025 02:18:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
-[21Aug2025 02:18:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Creative Mode]
-[21Aug2025 02:18:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> god
-[21Aug2025 02:18:23.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Survival Mode]
-[21Aug2025 02:18:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pa que
-[21Aug2025 02:18:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> un barra leche
-[21Aug2025 02:18:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aya
-[21Aug2025 02:18:41.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed every effect from 3 targets]
-[21Aug2025 02:18:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> pone keep inventori
-[21Aug2025 02:18:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
-[21Aug2025 02:18:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> denme speed 1 o 2
-[21Aug2025 02:18:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Survival Mode]
-[21Aug2025 02:19:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Applied effect Speed to Weckstone]
-[21Aug2025 02:19:17.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 1
-[21Aug2025 02:19:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 2
-[21Aug2025 02:19:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 3
-[21Aug2025 02:19:23.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 4
-[21Aug2025 02:19:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 5
-[21Aug2025 02:19:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 6
-[21Aug2025 02:19:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 20
-[21Aug2025 02:19:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> AH
-[21Aug2025 02:19:36.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> un minuto?
-[21Aug2025 02:19:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> Tengo 2 minutos
-[21Aug2025 02:19:45.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -0.6649163978840988,-10.0,0.5071131054722855
-[21Aug2025 02:19:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Creative Mode]
-[21Aug2025 02:19:56.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> a yo puedo ver a win pero el ami no
-[21Aug2025 02:20:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> me cai de nuevo
-[21Aug2025 02:20:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> nambre
-[21Aug2025 02:20:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> claro me pueden ver???
-[21Aug2025 02:20:18.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> naambre
-[21Aug2025 02:20:21.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> noono
-[21Aug2025 02:20:28.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Gamerule keepInventory is now set to: true]
-[21Aug2025 02:20:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> que se yo de ultima que lleven armadura azul y yo roja
-[21Aug2025 02:20:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Nametag visibility for team [AzuL] is now "Hide for other teams"]
-[21Aug2025 02:20:35.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> para que se den cuenta
-[21Aug2025 02:20:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> listo
-[21Aug2025 02:20:38.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 1
-[21Aug2025 02:20:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 1
-[21Aug2025 02:20:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> ya puse temporizador
-[21Aug2025 02:20:56.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 2
-[21Aug2025 02:20:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 3
-[21Aug2025 02:21:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 4
-[21Aug2025 02:21:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 5
-[21Aug2025 02:21:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 6
-[21Aug2025 02:21:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 7
-[21Aug2025 02:21:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 8
-[21Aug2025 02:21:06.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 9
-[21Aug2025 02:21:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 10
-[21Aug2025 02:21:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y que si uso mi espada
-[21Aug2025 02:21:09.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 11
-[21Aug2025 02:21:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 12
-[21Aug2025 02:21:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 13
-[21Aug2025 02:21:14.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 14
-[21Aug2025 02:21:18.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 15
-[21Aug2025 02:21:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 16
-[21Aug2025 02:21:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 17
-[21Aug2025 02:21:25.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 18
-[21Aug2025 02:21:26.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya dale
-[21Aug2025 02:21:27.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 19.
-[21Aug2025 02:21:30.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> 20
-[21Aug2025 02:21:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Survival Mode]
-[21Aug2025 02:22:12.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si xd
-[21Aug2025 02:22:17.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> por el arco
-[21Aug2025 02:22:28.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> na no se puede
-[21Aug2025 02:22:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was slain by Weckstone
-[21Aug2025 02:22:34.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 moved wrongly!
-[21Aug2025 02:22:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> no jodas
-[21Aug2025 02:22:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 02:22:48.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! -10.183342048707203,0.0,0.4695730960120841
-[21Aug2025 02:22:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
-[21Aug2025 02:23:06.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ay comando pa forsar que se oculte creo
-[21Aug2025 02:23:13.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 7.07452676651755,0.0,-7.236964966388882
-[21Aug2025 02:23:16.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> investiga
-[21Aug2025 02:23:27.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 9.056504790795401,0.0,-4.428638661981097
-[21Aug2025 02:23:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> si pero eso solo es personal creo
-[21Aug2025 02:23:43.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> se acabo
-[21Aug2025 02:23:50.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> gane
-[21Aug2025 02:23:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> no te vi por el vc igual
-[21Aug2025 02:23:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dejate ver que te mato
-[21Aug2025 02:23:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
-[21Aug2025 02:24:01.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> fue casualidad
-[21Aug2025 02:24:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> AMIGO TE ESCONDISTE EN EL SIMBOLO NAZI
-[21Aug2025 02:24:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> enserio? xd
-[21Aug2025 02:24:23.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Weckstone> son varias escaleras
-[21Aug2025 02:24:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Set own game mode to Creative Mode]
-[21Aug2025 02:24:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to genero100]
-[21Aug2025 02:24:52.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vale
-[21Aug2025 02:24:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Stopping the server]
-[21Aug2025 02:24:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Aug2025 02:24:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Aug2025 02:24:56.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genero100 lost connection: Disconnected
-[21Aug2025 02:24:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 left the game
-[21Aug2025 02:24:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Aug2025 02:24:56.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21Aug2025 02:24:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21Aug2025 02:24:57.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21Aug2025 02:24:57.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21Aug2025 02:24:57.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Aug2025 02:24:57.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Aug2025 02:24:57.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21Aug2025 02:24:57.848] [Server thread/INFO] [Framework/]: Unloading server configs...
-[21Aug2025 02:24:57.850] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[21Aug2025 02:24:57.852] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Aug2025 22:48:01.497] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Aug2025 22:48:01.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[21Aug2025 22:48:03.042] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Aug2025 22:48:03.190] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Aug2025 22:48:03.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Aug2025 22:48:03.668] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Aug2025 22:48:03.669] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Aug2025 22:48:03.671] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Aug2025 22:48:03.887] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[21Aug2025 22:48:06.038] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Aug2025 22:48:06.044] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Aug2025 22:48:12.111] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zzc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21Aug2025 22:48:13.532] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Aug2025 22:48:13.537] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Aug2025 22:48:14.962] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[21Aug2025 22:48:14.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[21Aug2025 22:48:15.028] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[21Aug2025 22:48:15.042] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[21Aug2025 22:48:15.044] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[21Aug2025 22:48:15.044] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[21Aug2025 22:48:15.451] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@9209dba]
+[21Aug2025 22:48:15.457] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[21Aug2025 22:48:15.512] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21Aug2025 22:48:15.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.35 Target: 1.20.1-2.5.36
+[21Aug2025 22:48:15.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Aug2025 22:48:15.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[21Aug2025 22:48:16.841] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Aug2025 22:48:17.589] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
+[21Aug2025 22:48:17.589] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/scaling-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
+[21Aug2025 22:48:19.329] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[21Aug2025 22:48:19.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[21Aug2025 22:48:20.054] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1977 advancements
+[21Aug2025 22:48:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Aug2025 22:48:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Aug2025 22:48:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Aug2025 22:48:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Aug2025 22:48:20.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Aug2025 22:48:20.972] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Aug2025 22:48:21.063] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Aug2025 22:48:21.064] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Aug2025 22:48:21.064] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Aug2025 22:48:21.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Aug2025 22:48:21.118] [Server thread/INFO] [Framework/]: Loading server configs...
+[21Aug2025 22:48:21.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Aug2025 22:48:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Aug2025 22:48:26.327] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:26.351] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:26.360] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:26.375] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:26.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:26.960] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:27.472] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:27.542] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Aug2025 22:48:27.965] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 22:48:28.465] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[21Aug2025 22:48:28.965] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[21Aug2025 22:48:29.460] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[21Aug2025 22:48:29.960] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[21Aug2025 22:48:30.435] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5975 ms
+[21Aug2025 22:48:30.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.356s)! For help, type "help"
+[21Aug2025 22:48:30.451] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Aug2025 22:48:31.823] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21Aug2025 22:48:31.834] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'few-assist.gl.at.ply.gg:5138'
+[21Aug2025 22:48:31.835] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[21Aug2025 22:48:59.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/127.228.117.83:58845] logged in with entity id 141 at (-93.32826085794353, 169.3682494857457, -288.2895005554544)
+[21Aug2025 22:48:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[21Aug2025 22:49:02.330] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Agus2000 (18)
+[21Aug2025 22:49:02.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Agus2000
+[21Aug2025 22:49:03.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c9beb890-2671-3838-a808-2f68a93b3ca2
+[21Aug2025 22:49:04.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
+[21Aug2025 22:49:04.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
+[21Aug2025 22:49:41.693] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3235222b[id=<null>,name=genero100,properties={},legacy=false] (/127.190.111.32:53775) lost connection: Disconnected
+[21Aug2025 22:49:47.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genero100[/127.190.111.32:44539] logged in with entity id 203 at (-92.75873465416525, 163.0, -298.7385734225166)
+[21Aug2025 22:49:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 joined the game
+[21Aug2025 22:49:49.121] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of genero100 (18)
+[21Aug2025 22:49:49.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to genero100
+[21Aug2025 22:49:50.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b3165d07-a764-3451-bb2e-77576955030a
+[21Aug2025 22:49:51.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b3165d07-a764-3451-bb2e-77576955030a
+[21Aug2025 22:49:51.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player genero100 (b3165d07-a764-3451-bb2e-77576955030a) successfully connected to voice chat
+[21Aug2025 22:50:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> huh
+[21Aug2025 22:50:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[21Aug2025 22:50:44.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> solo hay una creo
+[21Aug2025 22:51:07.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hacemos unas 5?
+[21Aug2025 22:51:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> AJA
+[21Aug2025 22:51:27.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mmmm
+[21Aug2025 22:51:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que tengan un boton
+[21Aug2025 22:51:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> mmmmm
+[21Aug2025 22:52:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> complicado eso
+[21Aug2025 22:55:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo este juego lo dejaba como un extra
+[21Aug2025 22:55:43.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que sea antes una arena normal
+[21Aug2025 22:56:17.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Weckstone[/127.37.245.80:59423] logged in with entity id 472 at (-96.87446524171571, 163.4952008770059, -306.35477640083235)
+[21Aug2025 22:56:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone joined the game
+[21Aug2025 22:56:21.467] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Weckstone (18)
+[21Aug2025 22:56:21.467] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Weckstone
+[21Aug2025 22:56:23.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 22:56:24.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 22:56:24.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Weckstone (c18264b0-4ecc-35bd-9b04-1a8072c0ebf9) successfully connected to voice chat
+[21Aug2025 22:57:06.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que es eso
