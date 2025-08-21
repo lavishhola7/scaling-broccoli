@@ -1669,3 +1669,77 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Aug2025 23:28:07.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1duesgd385hba]: Consuming argument `stone,stone_bricks,smot`
 [21Aug2025 23:28:08.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03g1aog7qlkix]: started parsing
 [21Aug2025 23:28:08.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03g1aog7qlkix]: Consuming argument `stone,stone_bricks,smo`
+[21Aug2025 23:28:09.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1df0brgj1ayfd]: started parsing
+[21Aug2025 23:28:09.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1df0brgj1ayfd]: Consuming argument `stone,stone_bricks,smoo`
+[21Aug2025 23:28:10.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1as2d4stqtj72]: started parsing
+[21Aug2025 23:28:10.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1as2d4stqtj72]: Consuming argument `stone,stone_bricks,smoot`
+[21Aug2025 23:28:13.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xgf0pau798m]: started parsing
+[21Aug2025 23:28:13.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xgf0pau798m]: Consuming argument `stone,stone_bricks,smooth`
+[21Aug2025 23:28:14.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lr39m2s4vcx1]: started parsing
+[21Aug2025 23:28:14.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lr39m2s4vcx1]: Consuming argument `stone,stone_bricks,smooth_`
+[21Aug2025 23:28:16.072] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mhx5xv3fyxzp]: started parsing
+[21Aug2025 23:28:16.072] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mhx5xv3fyxzp]: Consuming argument `stone,stone_bricks,smooth_t`
+[21Aug2025 23:28:16.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00malia0n08zy]: started parsing
+[21Aug2025 23:28:16.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00malia0n08zy]: Consuming argument `stone,stone_bricks,smooth_`
+[21Aug2025 23:28:17.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dkdmaygnxid]: started parsing
+[21Aug2025 23:28:17.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dkdmaygnxid]: Consuming argument `stone,stone_bricks,smooth_s`
+[21Aug2025 23:28:19.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrdyyzpncv4l]: started parsing
+[21Aug2025 23:28:19.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrdyyzpncv4l]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:19.390] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrdyyzpncv4l]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:28:31.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:28:31.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:28:32.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4cafyyj6znq]: started parsing
+[21Aug2025 23:28:32.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4cafyyj6znq]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:32.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4cafyyj6znq]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:32.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ayjnr59snbzw]: started parsing
+[21Aug2025 23:28:32.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ayjnr59snbzw]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:32.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ayjnr59snbzw]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:32.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m09w9glxtzek]: started parsing
+[21Aug2025 23:28:32.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m09w9glxtzek]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:32.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m09w9glxtzek]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:33.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:28:46.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cve6i4dzpukm]: started parsing
+[21Aug2025 23:28:46.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cve6i4dzpukm]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:46.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cve6i4dzpukm]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:46.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zknibv2c4t67]: started parsing
+[21Aug2025 23:28:46.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zknibv2c4t67]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:46.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zknibv2c4t67]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:28:48.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [016rax0nm8xie]: started parsing
+[21Aug2025 23:28:48.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [016rax0nm8xie]: Consuming argument `stone,stone_bricks,smooth_stone`
+[21Aug2025 23:28:48.282] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [016rax0nm8xie]: Finished looking at arguments. Finalizing command.
+[21Aug2025 23:29:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:29:54.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:30:02.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:30:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hace que cuando toque la placa se tepee adentro del coso negro
+[21Aug2025 23:30:04.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:30:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> una tele xd
+[21Aug2025 23:32:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:32:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:32:34.536] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=172, z=-308}
+[21Aug2025 23:32:38.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:32:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:32:47.587] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-98, y=174, z=-306}
+[21Aug2025 23:32:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:32:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:32:54.836] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-98, y=172, z=-307}
+[21Aug2025 23:32:56.786] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-96, y=172, z=-308}
+[21Aug2025 23:33:19.386] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-97, y=172, z=-307}
+[21Aug2025 23:33:31.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:33:31.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:33:31.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:33:33.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:33:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ara daño? xddddddd
+[21Aug2025 23:34:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[21Aug2025 23:34:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:34:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[21Aug2025 23:34:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:34:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Survival Mode]
+[21Aug2025 23:34:24.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[21Aug2025 23:35:01.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
+[21Aug2025 23:35:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> dale online
+[21Aug2025 23:35:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> con las felchas
+[21Aug2025 23:36:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> la putamadre
+[21Aug2025 23:37:04.686] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-95, y=170, z=-308}
+[21Aug2025 23:37:05.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-95, y=170, z=-307}
+[21Aug2025 23:37:20.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ciego
