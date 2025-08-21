@@ -190,3 +190,30 @@
 [21Aug2025 23:35:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> con las felchas
 [21Aug2025 23:36:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> la putamadre
 [21Aug2025 23:37:20.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ciego
+[21Aug2025 23:42:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> el que
+[21Aug2025 23:43:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> es obeha
+[21Aug2025 23:43:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sjsajsajjas
+[21Aug2025 23:44:02.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genero100 lost connection: Disconnected
+[21Aug2025 23:44:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 left the game
+[21Aug2025 23:44:02.787] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client genero100
+[21Aug2025 23:44:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:44:49.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:45:17.586] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40c7967[id=<null>,name=genero100,properties={},legacy=false] (/127.190.111.32:39193) lost connection: Disconnected
+[21Aug2025 23:45:48.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ea3c50d[id=<null>,name=genero100,properties={},legacy=false] (/127.190.111.32:43361) lost connection: Disconnected
+[21Aug2025 23:46:05.087] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2980866c[id=<null>,name=genero100,properties={},legacy=false] (/127.190.111.32:56089) lost connection: Disconnected
+[21Aug2025 23:46:08.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genero100[/127.190.111.32:58573] logged in with entity id 1682 at (-97.88703590503373, 169.0, -308.32603033135916)
+[21Aug2025 23:46:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 joined the game
+[21Aug2025 23:46:10.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of genero100 (18)
+[21Aug2025 23:46:10.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to genero100
+[21Aug2025 23:46:10.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b3165d07-a764-3451-bb2e-77576955030a
+[21Aug2025 23:46:12.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b3165d07-a764-3451-bb2e-77576955030a
+[21Aug2025 23:46:12.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player genero100 (b3165d07-a764-3451-bb2e-77576955030a) successfully connected to voice chat
+[21Aug2025 23:46:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> amigo
+[21Aug2025 23:46:24.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> vean chat del discord
+[21Aug2025 23:46:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Spectator Mode]
+[21Aug2025 23:46:49.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Survival Mode]
+[21Aug2025 23:46:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genero100: Set own game mode to Creative Mode]
+[21Aug2025 23:47:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> se vieron dedsafio 3?
+[21Aug2025 23:47:36.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hacemos un infierno?
+[21Aug2025 23:47:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> o esa de que te vas a otro lado t tenes que salir
+[21Aug2025 23:48:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> como un backroms
