@@ -46,5 +46,11 @@
     "name": "Ice_T166",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c18264b0-4ecc-35bd-9b04-1a8072c0ebf9",
+    "name": "Weckstone",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
