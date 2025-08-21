@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-08-21 00:55:25 +0000",
       "minecraft:birch_forest": "2025-08-03 00:58:13 +0000",
       "minecraft:stony_shore": "2025-08-03 00:57:56 +0000",
       "minecraft:ocean": "2025-08-03 00:56:19 +0000"
