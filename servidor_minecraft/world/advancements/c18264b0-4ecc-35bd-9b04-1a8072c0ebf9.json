@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-21 02:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2025-08-21 01:36:22 +0000"

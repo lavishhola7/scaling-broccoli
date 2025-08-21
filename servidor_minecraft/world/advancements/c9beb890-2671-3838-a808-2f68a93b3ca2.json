@@ -3443,63 +3443,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
     "criteria": {
-      "has_planks": "2025-08-21 01:36:16 +0000"
+      "has_slime_block": "2025-08-20 23:30:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
+      "has_slime_block": "2025-08-20 23:30:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
+      "has_obsidian": "2025-08-21 00:18:20 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_warped_planks": "2025-08-21 01:38:01 +0000"
+      "obsidian": "2025-08-21 00:18:20 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_warped_planks": "2025-08-21 01:38:01 +0000"
+      "has_obsidian": "2025-08-21 00:18:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
+      "has_gold_nugget": "2025-08-21 00:18:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
-    "criteria": {
-      "has_warped_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_horse_armor": "2025-08-21 00:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
+      "has_gold_nugget": "2025-08-21 00:18:23 +0000"
     },
     "done": true
   },
@@ -3509,9 +3491,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_planks": "2025-08-21 01:36:16 +0000"
+      "has_potato": "2025-08-21 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-21 00:18:28 +0000"
     },
     "done": true
   },
@@ -3521,9 +3509,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-21 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-21 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-21 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-08-21 00:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-21 00:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-21 00:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-08-21 00:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-21 00:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-21 00:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-21 00:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-21 00:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-21 00:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-21 00:20:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-21 00:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
     },
     "done": true
   },
@@ -3533,9 +3605,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
-      "has_golden_horse_armor": "2025-08-21 00:18:50 +0000"
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-08-21 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-21 00:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:36:16 +0000"
     },
     "done": true
   },
@@ -3551,33 +3683,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
-    "criteria": {
-      "has_slime_block": "2025-08-20 23:30:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-08-21 00:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-21 00:18:23 +0000"
     },
     "done": true
   },
@@ -3587,117 +3695,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-08-21 00:18:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-08-21 00:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-21 00:20:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-08-21 00:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-21 00:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-08-21 00:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-21 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
-    "criteria": {
-      "has_warped_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
     },
     "done": true
   },
@@ -3710,12 +3710,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
     "criteria": {
       "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-21 00:20:19 +0000"
     },
     "done": true
   },
@@ -3737,9 +3731,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_sign": {
+  "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
+      "has_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-21 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-08-21 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-08-21 01:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-08-21 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-08-21 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-08-21 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-08-21 01:38:01 +0000"
     },
     "done": true
   },
@@ -3761,21 +3947,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
     "criteria": {
       "has_warped_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
     },
     "done": true
   },
@@ -3797,24 +3971,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_fence": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-08-21 00:20:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-08-21 01:38:01 +0000"
@@ -3827,105 +3983,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/blue_ice": {
-    "criteria": {
-      "has_result": "2025-08-21 01:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-08-21 00:18:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-21 00:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-21 00:18:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-08-21 00:20:16 +0000"
     },
     "done": true
   },
@@ -3935,69 +3995,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-08-21 00:41:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2025-08-21 01:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-21 01:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-08-21 00:18:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
     "criteria": {
       "has_warped_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
-    "criteria": {
-      "has_acacia_planks": "2025-08-21 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2025-08-21 01:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-08-21 00:20:19 +0000"
     },
     "done": true
   },
@@ -4007,63 +4007,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_horse_armor": "2025-08-21 00:18:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-08-21 01:38:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_button": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-08-21 00:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-08-21 00:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-21 01:38:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_warped_planks": "2025-08-21 01:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-08-21 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-08-21 00:18:20 +0000"
     },
     "done": true
   },
@@ -4079,9 +4031,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
+  "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
-      "has_slime_block": "2025-08-20 23:30:37 +0000"
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 01:38:03 +0000"
     },
     "done": true
   },
