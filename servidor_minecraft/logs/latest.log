@@ -123,3 +123,42 @@
 [21Aug2025 23:15:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
 [21Aug2025 23:15:14.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
 [21Aug2025 23:17:28.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone moved too quickly! 9.533063258326791,0.0,4.2565134035927485
+[21Aug2025 23:19:28.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone lost connection: Kicked by an operator
+[21Aug2025 23:19:28.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone left the game
+[21Aug2025 23:19:28.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Weckstone
+[21Aug2025 23:19:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Kicked Weckstone: Kicked by an operator]
+[21Aug2025 23:19:28.691] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Aug2025 23:19:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> sajasjjasas
+[21Aug2025 23:19:37.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Weckstone[/127.37.245.80:39759] logged in with entity id 1156 at (-104.92951940197285, 172.77780687016147, -330.25283880710737)
+[21Aug2025 23:19:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone joined the game
+[21Aug2025 23:19:38.059] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Weckstone (18)
+[21Aug2025 23:19:38.060] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Weckstone
+[21Aug2025 23:19:40.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 23:19:41.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 23:19:41.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Weckstone (c18264b0-4ecc-35bd-9b04-1a8072c0ebf9) successfully connected to voice chat
+[21Aug2025 23:20:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Kicked Weckstone: Kicked by an operator]
+[21Aug2025 23:20:29.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weckstone lost connection: Kicked by an operator
+[21Aug2025 23:20:29.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone left the game
+[21Aug2025 23:20:29.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Weckstone
+[21Aug2025 23:21:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> no hice nada
+[21Aug2025 23:21:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> me mate
+[21Aug2025 23:21:29.787] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cd5e1e[id=<null>,name=Weckstone,properties={},legacy=false] (/127.37.245.80:59793) lost connection: Disconnected
+[21Aug2025 23:21:37.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Weckstone[/127.37.245.80:37439] logged in with entity id 1317 at (-98.49754267869037, 175.21822659996613, -311.6701961344111)
+[21Aug2025 23:21:37.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Weckstone joined the game
+[21Aug2025 23:21:37.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Weckstone (18)
+[21Aug2025 23:21:37.633] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Weckstone
+[21Aug2025 23:21:43.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 23:21:44.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c18264b0-4ecc-35bd-9b04-1a8072c0ebf9
+[21Aug2025 23:21:44.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Weckstone (c18264b0-4ecc-35bd-9b04-1a8072c0ebf9) successfully connected to voice chat
+[21Aug2025 23:21:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> y si meto un comando pa que lo tepe a otro lado?
+[21Aug2025 23:22:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xd
+[21Aug2025 23:22:32.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> uuuuu
+[21Aug2025 23:25:43.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> fuk
+[21Aug2025 23:25:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ok
+[21Aug2025 23:26:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> xdddddddd
+[21Aug2025 23:27:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:27:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:27:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:27:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[21Aug2025 23:27:55.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[21Aug2025 23:27:56.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
