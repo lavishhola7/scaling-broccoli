@@ -4666,3 +4666,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Aug2025 00:56:10.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Aug2025 00:56:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ./stop?
 [21Aug2025 00:56:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> okas
+[21Aug2025 00:56:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo lo aria mas chico sajsajasjsa
+[21Aug2025 00:56:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> yo pense que iba a hacer 15 de ancho no 15 de cada lado
+[21Aug2025 00:57:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> que haces
+[21Aug2025 00:57:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> son 120 de cada lado
+[21Aug2025 00:57:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> aja
+[21Aug2025 01:01:10.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 01:01:10.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 01:01:36.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> ya vengo
+[21Aug2025 01:02:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> volvi
+[21Aug2025 01:02:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> hace drive
+[21Aug2025 01:02:32.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a7ekhv4bdo4e]: started parsing
+[21Aug2025 01:02:32.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a7ekhv4bdo4e]: Consuming argument ``
+[21Aug2025 01:02:32.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzzxqzf6p9kt]: started parsing
+[21Aug2025 01:02:32.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzzxqzf6p9kt]: Consuming argument `a`
+[21Aug2025 01:02:33.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1y0lrp74ffbyu]: started parsing
+[21Aug2025 01:02:33.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1y0lrp74ffbyu]: Consuming argument `ai`
+[21Aug2025 01:02:33.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bqwmrg6uc5x]: started parsing
+[21Aug2025 01:02:33.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bqwmrg6uc5x]: Consuming argument `air`
+[21Aug2025 01:02:33.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bqwmrg6uc5x]: Finished looking at arguments. Finalizing command.
+[21Aug2025 01:02:33.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fwzxzl4lwot4]: started parsing
+[21Aug2025 01:02:33.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fwzxzl4lwot4]: Consuming argument `air`
+[21Aug2025 01:02:33.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fwzxzl4lwot4]: Finished looking at arguments. Finalizing command.
+[21Aug2025 01:02:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <genero100> asterisco se cae asterisco
+[21Aug2025 01:05:42.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kg819r2gbak4]: started parsing
+[21Aug2025 01:05:42.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kg819r2gbak4]: Consuming argument `air`
+[21Aug2025 01:05:42.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kg819r2gbak4]: Finished looking at arguments. Finalizing command.
+[21Aug2025 01:05:42.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyt4b5skk376]: started parsing
+[21Aug2025 01:05:42.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyt4b5skk376]: Consuming argument `air`
+[21Aug2025 01:05:42.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyt4b5skk376]: Finished looking at arguments. Finalizing command.
+[21Aug2025 01:05:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qqxvjxtczd7a]: started parsing
+[21Aug2025 01:05:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qqxvjxtczd7a]: Consuming argument `air`
+[21Aug2025 01:05:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qqxvjxtczd7a]: Finished looking at arguments. Finalizing command.
+[21Aug2025 01:06:10.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 01:06:10.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
