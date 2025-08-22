@@ -2155,3 +2155,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Aug2025 23:57:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genero100 left the game
 [21Aug2025 23:57:15.837] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of genero100
 [21Aug2025 23:57:15.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client genero100
+[21Aug2025 23:58:31.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:58:31.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:59:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Weckstone: Teleported Weckstone to Agus2000]
+[22Aug2025 00:01:12.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> CHASE DIH
+[22Aug2025 00:03:31.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 00:03:31.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
