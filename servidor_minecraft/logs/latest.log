@@ -68,3 +68,15 @@
 [29Aug2025 15:30:59.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c9beb890-2671-3838-a808-2f68a93b3ca2
 [29Aug2025 15:31:00.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c9beb890-2671-3838-a808-2f68a93b3ca2
 [29Aug2025 15:31:00.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Agus2000 (c9beb890-2671-3838-a808-2f68a93b3ca2) successfully connected to voice chat
+[29Aug2025 16:10:27.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Luckys]]
+[29Aug2025 16:12:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set display slot sidebar to show objective Luckys]
+[29Aug2025 16:15:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed objective [Luckys]]
+[29Aug2025 16:16:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Luckys rotos]]
+[29Aug2025 16:17:00.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set display slot sidebar to show objective Luckys rotos]
+[29Aug2025 16:17:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[29Aug2025 16:17:07.184] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bucket,amount=#rand(1,2);ID=water_bucket,amount=#rand(1,2);ID=lava_bucket,amount=#rand(1,2);ID=milk_bucket,amount=#rand(1,2))@luck=0
+[29Aug2025 16:17:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[29Aug2025 16:17:48.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created team [Blanco]]
+[29Aug2025 16:18:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Updated the color for team [Blanco] to white]
+[29Aug2025 16:18:05.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[29Aug2025 16:18:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]

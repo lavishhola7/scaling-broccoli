@@ -1856,3 +1856,79 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 16:08:05.090] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bepydq0e97gz]: started parsing
 [29Aug2025 16:08:05.090] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bepydq0e97gz]: Consuming argument `reinforced_deepslate`
 [29Aug2025 16:08:05.090] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bepydq0e97gz]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:10:27.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Luckys]]
+[29Aug2025 16:10:36.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:10:36.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 16:12:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set display slot sidebar to show objective Luckys]
+[29Aug2025 16:12:50.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lu14yq45sq7]: started parsing
+[29Aug2025 16:12:50.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lu14yq45sq7]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:12:50.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lu14yq45sq7]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:12:50.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjowk0p3g9qs]: started parsing
+[29Aug2025 16:12:50.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjowk0p3g9qs]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:12:50.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjowk0p3g9qs]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:36.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:15:36.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 16:15:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Removed objective [Luckys]]
+[29Aug2025 16:15:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lvwg8vf6nta]: started parsing
+[29Aug2025 16:15:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lvwg8vf6nta]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lvwg8vf6nta]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:53.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04pnoy0xwzvnb]: started parsing
+[29Aug2025 16:15:53.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04pnoy0xwzvnb]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:53.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04pnoy0xwzvnb]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:53.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lyxgx2ejbrsr]: started parsing
+[29Aug2025 16:15:53.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lyxgx2ejbrsr]: Consuming argument `1%lucky:lucky_block,99%air`
+[29Aug2025 16:15:53.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lyxgx2ejbrsr]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:53.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xc9gix59kjiy]: started parsing
+[29Aug2025 16:15:53.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xc9gix59kjiy]: Consuming argument `1%lucky:lucky_block,99%air`
+[29Aug2025 16:15:53.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xc9gix59kjiy]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:53.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0od3eut001h6r]: started parsing
+[29Aug2025 16:15:53.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0od3eut001h6r]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:53.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0od3eut001h6r]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:53.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04esfubkg8bd3]: started parsing
+[29Aug2025 16:15:53.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04esfubkg8bd3]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:53.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04esfubkg8bd3]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6tz5n9aplh4]: started parsing
+[29Aug2025 16:15:54.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6tz5n9aplh4]: Consuming argument `1%water,99%reinforced_deepslate`
+[29Aug2025 16:15:54.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6tz5n9aplh4]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cmjvygryi3g]: started parsing
+[29Aug2025 16:15:54.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cmjvygryi3g]: Consuming argument `1%water,99%reinforced_deepslate`
+[29Aug2025 16:15:54.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cmjvygryi3g]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ezsrjle864gj]: started parsing
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ezsrjle864gj]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ezsrjle864gj]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3gc6t790i7y]: started parsing
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3gc6t790i7y]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:54.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3gc6t790i7y]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dv69kl6xqb3]: started parsing
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dv69kl6xqb3]: Consuming argument `1%water,99%reinforced_deepslate`
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dv69kl6xqb3]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hr8sq5xoqm5z]: started parsing
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hr8sq5xoqm5z]: Consuming argument `1%water,99%reinforced_deepslate`
+[29Aug2025 16:15:54.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hr8sq5xoqm5z]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxvoymkb1utl]: started parsing
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxvoymkb1utl]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxvoymkb1utl]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cbzzc0ovc6mm]: started parsing
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cbzzc0ovc6mm]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:54.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cbzzc0ovc6mm]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:55.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7m1hjxnxfu8]: started parsing
+[29Aug2025 16:15:55.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7m1hjxnxfu8]: Consuming argument `1%lucky:lucky_block,99%air`
+[29Aug2025 16:15:55.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7m1hjxnxfu8]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:55.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lgch5qhl0li9]: started parsing
+[29Aug2025 16:15:55.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lgch5qhl0li9]: Consuming argument `1%lucky:lucky_block,99%air`
+[29Aug2025 16:15:55.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lgch5qhl0li9]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [184nquqjz1um9]: started parsing
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [184nquqjz1um9]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [184nquqjz1um9]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ek8fy313ddh]: started parsing
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ek8fy313ddh]: Consuming argument `reinforced_deepslate`
+[29Aug2025 16:15:55.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ek8fy313ddh]: Finished looking at arguments. Finalizing command.
+[29Aug2025 16:16:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created new objective [Luckys rotos]]
+[29Aug2025 16:17:00.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set display slot sidebar to show objective Luckys rotos]
+[29Aug2025 16:17:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[29Aug2025 16:17:07.184] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bucket,amount=#rand(1,2);ID=water_bucket,amount=#rand(1,2);ID=lava_bucket,amount=#rand(1,2);ID=milk_bucket,amount=#rand(1,2))@luck=0
+[29Aug2025 16:17:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[29Aug2025 16:17:48.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Created team [Blanco]]
+[29Aug2025 16:18:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Updated the color for team [Blanco] to white]
+[29Aug2025 16:18:05.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Spectator Mode]
+[29Aug2025 16:18:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
